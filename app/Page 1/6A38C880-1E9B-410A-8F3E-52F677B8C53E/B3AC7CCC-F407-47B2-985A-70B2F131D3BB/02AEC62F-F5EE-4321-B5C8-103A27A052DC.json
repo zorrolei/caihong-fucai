@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "02AEC62F-F5EE-4321-B5C8-103A27A052DC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E41E62A5-2318-4C0E-9A2F-AFDAB6C6186D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8786F7CA-405F-4282-BDC1-AA2C2E333165",
+    "height": 40,
+    "width": 345.6,
+    "x": 14.4,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Cell/list view",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "84EDA4DD-6538-4891-892D-E620FAAB1E55",
+      "overrideName": "C2D24DCC-9077-4560-8B9D-45AB854D3397_stringValue",
+      "value": "订单编号"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BE387791-BB19-435C-BB21-A38FD1F7C572",
+      "overrideName": "BAA8257A-2583-447F-99CB-738EC560B5C7_stringValue",
+      "value": "31234123412341"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AF2ED80C-F3C1-40C8-AA5A-33D665F65A47",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "41AD74C7-9A44-4704-8FB7-13B69262D537",
+  "verticalSpacing": 0
+}

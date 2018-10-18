@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "7F79884A-35FB-4BFA-ABE6-0CBE77086E73",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2338DD48-1A09-4AFA-83F1-35D2D311B2CD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A395A8D9-D001-4A2A-B99B-EC52336BCF0C",
+    "height": 45,
+    "width": 180.48,
+    "x": 180,
+    "y": 155
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Preview/btn02R",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0610E629-BE7F-4182-9FE8-BBF4C5748205",
+      "overrideName": "43B74030-B564-42E3-948B-6677FE3C6CCE_stringValue",
+      "value": "再次购买"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B163A130-AD20-47FB-87EC-DE22DB6D9281",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "1155A6CC-6173-4887-9611-AA946BB380BF",
+  "verticalSpacing": 0
+}

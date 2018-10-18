@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "3BC62962-6D63-444A-9F28-505D1642348A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 80,
+    "width": 346,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "92B0551F-3AB4-4F74-84F2-F13641A08BCC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2A88F933-90D0-4065-882D-2902CF522A71"
+    },
+    {
+      "class": "text",
+      "id": "C6A7A475-6C32-465D-A715-83C3CFDB7838"
+    },
+    {
+      "class": "text",
+      "id": "F20737C8-605B-4473-B516-6C3F9440F2E3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5E2394C4-B9A7-4376-A894-1976C01D7CF1"
+    }
+  ],
+  "name": "Cell/Cell 360 Explain Badge 45icon",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

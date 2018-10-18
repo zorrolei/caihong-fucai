@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "EAD51353-2792-48C6-BAC1-C433D058AB27",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EA21A8D1-D8DA-41D5-A5E0-E187F97449AB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "58DB34F5-91A5-4D6D-84F7-DBC5779D7580",
+    "height": 35,
+    "width": 360,
+    "x": 0,
+    "y": 396
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Cell/Notes Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "DF9AFD86-8C5E-4190-8384-58F92CA5081A_stringValue",
+      "value": "点评一下"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2A076BDF-0468-453A-9A09-219C09F68952",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "59A16E6F-1AD9-4D37-AC87-F226EFB7E7F1",
+  "verticalSpacing": 0
+}

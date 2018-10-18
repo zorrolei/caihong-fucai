@@ -1,0 +1,78 @@
+{
+  "_class": "shapePath",
+  "booleanOperation": -1,
+  "do_objectID": "7CC9C2A5-1D43-4AAD-AF44-A81CA9A3A0C7",
+  "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 2.171465736585364,
+    "width": 1.635892214634143,
+    "x": 9.806907424390246,
+    "y": 6.806816477030265
+  },
+  "isClosed": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Path",
+  "nameIsFixed": false,
+  "pointRadiusBehaviour": 1,
+  "points": [
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.81775905899030166, 0.56282584318746165}",
+      "curveMode": 4,
+      "curveTo": "{1, 0.82411519200532179}",
+      "hasCurveFrom": true,
+      "hasCurveTo": false,
+      "point": "{1, 0.82411519200532179}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.40666422461896112, 0}",
+      "curveMode": 4,
+      "curveTo": "{0.61999268101341676, 0.28811618747993872}",
+      "hasCurveFrom": false,
+      "hasCurveTo": true,
+      "point": "{0.40666422461896112, 0}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.21777736898069408, 0.45562881078442347}",
+      "curveMode": 4,
+      "curveTo": "{0, 0.1608093574182767}",
+      "hasCurveFrom": true,
+      "hasCurveTo": false,
+      "point": "{0, 0.1608093574182767}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.55335043482380575, 1}",
+      "curveMode": 4,
+      "curveTo": "{0.40217868847367372, 0.73534523638249516}",
+      "hasCurveFrom": false,
+      "hasCurveTo": true,
+      "point": "{0.55335043482380575, 1}"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false
+}

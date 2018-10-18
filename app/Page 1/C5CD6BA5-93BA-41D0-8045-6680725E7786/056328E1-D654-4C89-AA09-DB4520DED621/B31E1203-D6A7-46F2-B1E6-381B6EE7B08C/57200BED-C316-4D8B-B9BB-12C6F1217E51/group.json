@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "57200BED-C316-4D8B-B9BB-12C6F1217E51",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "89358623-7285-47DF-8D02-2CC22B4199EF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "359C858C-F53F-4AC5-BC37-C1E474111225",
+    "height": 25.625,
+    "width": 37.5,
+    "x": 58.125,
+    "y": 7.5
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "38EEEC35-7AA6-4258-BA70-3FAE4730AC27"
+    }
+  ],
+  "name": "代金券",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "B748B0E0-6F4F-4069-A0FA-EE43DC8A8B0A",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 6.25,
+      "type": 0
+    },
+    "do_objectID": "E8494830-5F72-4C56-B8FF-2114C190A2B3",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
