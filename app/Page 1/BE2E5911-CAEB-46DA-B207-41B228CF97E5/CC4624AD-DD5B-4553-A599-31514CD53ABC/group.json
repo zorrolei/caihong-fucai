@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "CC4624AD-DD5B-4553-A599-31514CD53ABC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "96387B95-16E5-483B-859A-377B3B5393D8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F1E8B30A-1686-4C37-B53F-6CF5EB4EBBC5",
+    "height": 80,
+    "width": 360,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "4DB97965-9388-400E-AC09-DE7E85DFF7B3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1989EF9B-1FD3-45B2-B141-1BD3155784E0"
+    },
+    {
+      "class": "group",
+      "id": "A5D96D95-3410-4F02-B3AB-C0A812033893"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C822C17B-E70D-4002-AB5C-423E2163D5EE"
+    },
+    {
+      "class": "text",
+      "id": "1B25416A-E49E-44DC-BA82-7B231FF8229C"
+    }
+  ],
+  "name": "Android Dark",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6D710A7C-86A5-4008-9F5D-EAD7B3F7E6BE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

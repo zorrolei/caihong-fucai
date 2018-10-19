@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "0F9D3684-079D-4DCA-AB74-59FA754744BD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "049DB4C6-A3E8-4BD7-8F1C-F5D9811D9B79",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "13F7111A-2498-4416-BD90-4DA79AEE4CAD",
+    "height": 42,
+    "width": 330,
+    "x": 15,
+    "y": 182
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "botton/Normal",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5157BBBF-302D-4BE2-A27A-7979E5F82BBE",
+      "overrideName": "AC9A7964-9502-4E35-964B-F9B284CD3CED_stringValue",
+      "value": "绑定"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AB1F1571-E340-4F9C-AB0E-ED38F650FC10",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "65A50B5F-F0B4-4EF4-9189-4F24DE79B252",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "46F901A7-CF37-4041-891E-E301382A0935",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "620E273B-1C43-448F-B817-A5AE050AFB6E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FB25AE4A-BCA6-4CA7-918C-26F2F883CA76",
+    "height": 80,
+    "width": 360,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "2C0A8B41-9814-4648-B7E6-FE04C5CAA240"
+    },
+    {
+      "class": "text",
+      "id": "48AEBEF4-D979-4E49-AE6B-843C6838F49D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C6F480F7-3856-43AF-AF03-67C8F701AAC0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2C962CE2-371B-4F20-BEB2-5835E97AA9CC"
+    },
+    {
+      "class": "group",
+      "id": "B136DABA-C606-4C9E-97F7-4AAF737DAEB2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1B72D1E3-8270-47D9-AB0A-EF0DA5D43A8A"
+    }
+  ],
+  "name": "Android Dark With Back",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "03913D7A-8B4F-447A-851F-AA9CAA1C1B75",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

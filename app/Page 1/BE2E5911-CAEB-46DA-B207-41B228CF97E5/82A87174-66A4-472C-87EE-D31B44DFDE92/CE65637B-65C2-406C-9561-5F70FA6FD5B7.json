@@ -1,0 +1,55 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "CE65637B-65C2-406C-9561-5F70FA6FD5B7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A7D11C8A-A9ED-41F6-89C6-A1F6BE3F3DED",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E1800878-2151-40B6-9C3D-4545F39AD449",
+    "height": 40,
+    "width": 345.6,
+    "x": 14.4,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Cell/list view icon",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "F9AF93EF-44EF-4AD7-8A96-8D5AE1C19606_stringValue",
+      "value": "订单查询"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E73BDFED-9662-4D55-9728-6BC3BC0A6E36",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DC9C0A5B-8B78-4F5A-9D9A-C49073EBDDF6",
+  "verticalSpacing": 0
+}

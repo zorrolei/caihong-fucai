@@ -20,9 +20,10 @@
     "height": 3.252452392510402,
     "width": 7.602773925104018,
     "x": 3.377127721914015,
-    "y": 0.00009321090199316919
+    "y": 0.00009321090199316924
   },
   "isClosed": true,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

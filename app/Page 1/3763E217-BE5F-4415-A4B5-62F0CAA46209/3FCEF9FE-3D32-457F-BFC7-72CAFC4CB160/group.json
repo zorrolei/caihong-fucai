@@ -1,0 +1,92 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "3FCEF9FE-3D32-457F-BFC7-72CAFC4CB160",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BBA54210-CFD6-470C-9547-346BA19A3762",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8F24E5A3-F448-4EB9-A109-562623CC66F5",
+    "height": 44,
+    "width": 360,
+    "x": 0,
+    "y": 204
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9C67052E-CB5F-4797-8476-135C4828A015"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BA2EDC5E-C6F0-477E-983D-3BB056D1A389"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "ADE2569E-6706-43EC-95D4-607E6F1553ED"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6076CF45-931F-456B-A36D-27AECF45E0CF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0709A3D0-E050-4ED1-83FC-F84209F22527"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "70A73BB9-E4F0-497F-A37F-5C1FBEF398C0"
+    },
+    {
+      "class": "text",
+      "id": "941988E2-7DC3-41EA-A51E-5AFACD644243"
+    },
+    {
+      "class": "text",
+      "id": "DA15032E-22B5-43A7-BAC2-D1E3F235419D"
+    },
+    {
+      "class": "text",
+      "id": "E43A228B-2FE0-4CE8-9585-AD2C717DC255"
+    }
+  ],
+  "name": " 表单/选择/组合列表",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "61D6105E-2209-49B1-81B3-4B246B96DBFB",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 4.8,
+      "type": 0
+    },
+    "do_objectID": "3D24AA91-7103-4AA3-BA5F-F1B47F47D407",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

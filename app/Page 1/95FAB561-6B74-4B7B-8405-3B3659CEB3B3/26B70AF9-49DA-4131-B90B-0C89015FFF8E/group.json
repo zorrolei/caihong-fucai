@@ -1,0 +1,68 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "26B70AF9-49DA-4131-B90B-0C89015FFF8E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "93FB641D-2DB9-42E5-8FD7-5EA633E0A4C2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1CD46624-ADA6-403A-AA1E-4F13D7476735",
+    "height": 146,
+    "width": 94,
+    "x": 133,
+    "y": 110
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B74322F6-A2DC-4ECA-82F6-AC659E2D9A44"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0C1C47A5-1433-4F24-923C-D2DE880288B7"
+    },
+    {
+      "class": "text",
+      "id": "40AAE393-FC14-4BF2-A90D-C7B492733ECB"
+    }
+  ],
+  "name": "反馈区域",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "203CAB29-F188-4B9A-BCBB-CD8F5AC04C24",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "type": 0
+    },
+    "do_objectID": "C126EFA8-F936-433A-9189-D6EEBDAFA902",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

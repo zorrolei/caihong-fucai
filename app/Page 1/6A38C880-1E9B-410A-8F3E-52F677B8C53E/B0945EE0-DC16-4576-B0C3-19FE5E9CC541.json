@@ -1,5 +1,6 @@
 {
   "_class": "symbolInstance",
+  "booleanOperation": 0,
   "do_objectID": "B0945EE0-DC16-4576-B0C3-19FE5E9CC541",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,6 +22,7 @@
     "y": 653
   },
   "horizontalSpacing": 0,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -31,8 +33,8 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "6029434A-C357-41B6-A88B-B0C890B774F0",
-      "overrideName": "8D3B8E72-BDC6-4EFC-812A-309F3F1E64CB_stringValue",
+      "do_objectID": "D12BA620-EF3C-4536-B072-82192CC8E5E9",
+      "overrideName": "AC9A7964-9502-4E35-964B-F9B284CD3CED_stringValue",
       "value": "保存"
     }
   ],
@@ -44,10 +46,11 @@
   "style": {
     "_class": "style",
     "do_objectID": "061F325C-1085-4A01-A5CD-B15816471009",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   },
-  "symbolID": "5A418A14-5AA0-4E06-9760-AF825B29A2B4",
+  "symbolID": "65A50B5F-F0B4-4EF4-9189-4F24DE79B252",
   "verticalSpacing": 0
 }

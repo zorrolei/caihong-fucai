@@ -1,0 +1,60 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "D07803A1-F3AD-4806-9523-238C8A0BFA83",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6BB9FCC0-EE67-45FF-AB5B-2E9094F36682",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5FECACF0-6856-46F7-B305-98384528BFB5",
+    "height": 40,
+    "width": 345.6,
+    "x": 14.4,
+    "y": 40
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Cell/list view icon Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "FDD3A89C-1FFE-4676-AEFA-0CCDF685C611_stringValue",
+      "value": "Cell list view"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F9AF93EF-44EF-4AD7-8A96-8D5AE1C19606_stringValue",
+      "value": "代金券绑定"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "78DE9A05-73DB-4E06-9F46-37DE31608154",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DC9C0A5B-8B78-4F5A-9D9A-C49073EBDDF6",
+  "verticalSpacing": 0
+}
