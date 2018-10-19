@@ -1,5 +1,5 @@
 {
-  "_class": "artboard",
+  "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -7,20 +7,12 @@
     "green": 1,
     "red": 1
   },
-  "booleanOperation": -1,
-  "do_objectID": "95FAB561-6B74-4B7B-8405-3B3659CEB3B3",
+  "booleanOperation": 0,
+  "changeIdentifier": 104,
+  "do_objectID": "E1319EB5-74E2-4B92-92E2-D92D47D1CF8F",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "",
-        "namingScheme": 0,
-        "scale": 2,
-        "visibleScaleType": 0
-      }
     ],
     "includedLayerIds": [
     ],
@@ -30,12 +22,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 640,
-    "width": 360,
-    "x": 1483,
-    "y": 1340
+    "height": 35,
+    "width": 375,
+    "x": 1736,
+    "y": 560
   },
-  "hasBackgroundColor": true,
+  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -44,6 +36,7 @@
     ]
   },
   "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -51,30 +44,19 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "26B70AF9-49DA-4131-B90B-0C89015FFF8E"
+      "class": "shapeGroup",
+      "id": "CA8EB65D-82DD-4CC7-97DF-1B30B57C7C8B"
     },
     {
-      "class": "symbolInstance",
-      "id": "D468C075-5BDF-4D11-9682-A89201EF8E07"
-    },
-    {
-      "class": "group",
-      "id": "46F901A7-CF37-4041-891E-E301382A0935"
+      "class": "text",
+      "id": "88D5CB16-3F90-4C5C-B202-ACFF6DFC8DBA"
     }
   ],
-  "name": "绑定结果",
+  "name": "Cell/Notes D",
   "nameIsFixed": true,
-  "presetDictionary": {
-    "allowResizedMatching": 0,
-    "height": 640,
-    "name": "Android",
-    "offersLandscapeVariant": 1,
-    "width": 360
-  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -87,9 +69,10 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "2C2E13DE-9EBA-4050-8901-D7119A0C5A71",
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": 2
+      "highestQuality": -1
     }
   },
   "verticalRulerData": {

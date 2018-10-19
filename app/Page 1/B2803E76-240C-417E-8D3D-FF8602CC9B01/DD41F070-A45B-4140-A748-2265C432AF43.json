@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "DD41F070-A45B-4140-A748-2265C432AF43",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "52D5A219-5931-4668-AAC8-77ED7BB2A14D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EEBB1C28-2108-4376-954E-5337E44BBE5C",
+    "height": 52,
+    "width": 360,
+    "x": 0,
+    "y": 210
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Cell/Notes Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "4EC9723D-600A-4DD6-B3FA-2B3E86E1A4EF_stringValue",
+      "value": "表单"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EDE4DACE-B6D2-4066-8C5F-78BC5DB71434",
+      "overrideName": "88D5CB16-3F90-4C5C-B202-ACFF6DFC8DBA_stringValue",
+      "value": "提示：跳转至移动积分商城，购买彩票代金券后，回到该页面兑换彩票。"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B2C005EA-1220-47F1-8070-F136C957A512",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2C2E13DE-9EBA-4050-8901-D7119A0C5A71",
+  "verticalSpacing": 0
+}
