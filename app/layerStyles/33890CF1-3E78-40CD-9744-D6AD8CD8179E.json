@@ -4,7 +4,7 @@
   "name": "003 Spring Warmth Style",
   "value": {
     "_class": "style",
-    "endMarkerType": 0,
+    "endDecorationType": 0,
     "fills": [
       {
         "_class": "fill",
@@ -56,7 +56,6 @@
     ],
     "miterLimit": 10,
     "sharedObjectID": "33890CF1-3E78-40CD-9744-D6AD8CD8179E",
-    "startMarkerType": 0,
-    "windingRule": 1
+    "startDecorationType": 0
   }
 }

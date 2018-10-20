@@ -33,7 +33,6 @@
     "string": "彩票代金券"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": 0,
   "do_objectID": "BE161E21-6E96-45E3-A67B-B1320F8C447C",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -56,7 +55,6 @@
     "y": 31.25
   },
   "glyphBounds": "{{0, 2}, {50, 11}}",
-  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -81,9 +79,9 @@
       "type": 0
     },
     "do_objectID": "56A4604F-96B5-42B9-A272-2D0292A2F4A4",
-    "endMarkerType": 0,
+    "endDecorationType": 0,
     "miterLimit": 10,
-    "startMarkerType": 0,
+    "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "E4583D5C-EB0A-4C1A-A4B9-BC0E28AE5933",
@@ -109,8 +107,7 @@
         "textStyleVerticalAlignmentKey": 0
       },
       "verticalAlignment": 0
-    },
-    "windingRule": 1
+    }
   },
   "textBehaviour": 0
 }

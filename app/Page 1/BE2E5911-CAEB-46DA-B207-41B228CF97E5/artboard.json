@@ -7,7 +7,6 @@
     "green": 0.9450980392156862,
     "red": 0.9450980392156862
   },
-  "booleanOperation": -1,
   "do_objectID": "BE2E5911-CAEB-46DA-B207-41B228CF97E5",
   "exportOptions": {
     "_class": "exportOptions",
@@ -45,7 +44,6 @@
   },
   "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
-  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isFlowHome": false,
@@ -62,16 +60,16 @@
       "id": "8492BB1C-8F20-4A34-8A20-9B684331F625"
     },
     {
-      "class": "shapeGroup",
-      "id": "5488D95A-81F4-4BA5-A2DD-63E5704AF80D"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "7C290693-196E-4F43-BBFF-CEC6D0E436D8"
+      "class": "symbolInstance",
+      "id": "7647784D-2C6D-469F-9BC1-28634FA66888"
     },
     {
       "class": "group",
-      "id": "F4A8CC61-AB07-4E3F-B641-7D9B45E13C37"
+      "id": "D5BC43C8-2AE8-4A53-A13B-1161513CCFF7"
+    },
+    {
+      "class": "group",
+      "id": "82A87174-66A4-472C-87EE-D31B44DFDE92"
     },
     {
       "class": "text",
@@ -80,38 +78,6 @@
     {
       "class": "group",
       "id": "C2B62A95-909D-4779-824E-23C10C769EBF"
-    },
-    {
-      "class": "group",
-      "id": "82A87174-66A4-472C-87EE-D31B44DFDE92"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "7647784D-2C6D-469F-9BC1-28634FA66888"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "E56BB525-04CC-4C4B-800F-E8B822F43638"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "17A1832E-A154-4F16-861C-F87CD337E47F"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "36716DA7-1D2E-4973-A6B6-EC4E1D368707"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "293773A8-BC5D-4B98-9AD3-949A6A726EFE"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "FF641BEC-2C37-41F7-9ED5-4C1B121C1947"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "BFB64A88-E7BC-4167-B321-3EC08447A0C4"
     }
   ],
   "name": "会员",
@@ -130,10 +96,9 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "endMarkerType": 0,
+    "endDecorationType": 0,
     "miterLimit": 10,
-    "startMarkerType": 0,
-    "windingRule": 1
+    "startDecorationType": 0
   },
   "userInfo": {
     "io.magicsketch.mirror": {

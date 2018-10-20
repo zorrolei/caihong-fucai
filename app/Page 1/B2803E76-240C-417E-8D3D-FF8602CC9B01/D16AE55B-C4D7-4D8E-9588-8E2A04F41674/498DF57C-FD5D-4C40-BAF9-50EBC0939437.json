@@ -33,7 +33,6 @@
     "string": "历史代金券"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": 0,
   "do_objectID": "498DF57C-FD5D-4C40-BAF9-50EBC0939437",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -56,7 +55,6 @@
     "y": 0
   },
   "glyphBounds": "{{0, 3}, {60, 12}}",
-  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -72,9 +70,9 @@
   "style": {
     "_class": "style",
     "do_objectID": "56674F88-B3C0-48C3-B81F-7F6D8EE744D9",
-    "endMarkerType": 0,
+    "endDecorationType": 0,
     "miterLimit": 10,
-    "startMarkerType": 0,
+    "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "A297D69B-272A-453F-8E13-4C81E24C7495",
@@ -100,8 +98,7 @@
         }
       },
       "verticalAlignment": 0
-    },
-    "windingRule": 1
+    }
   },
   "textBehaviour": 0
 }

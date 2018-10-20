@@ -34,7 +34,6 @@
     "string": "填写手机号码"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": 0,
   "do_objectID": "AF802230-E3DD-496F-A01D-79A9D61E2220",
   "dontSynchroniseWithSymbol": true,
   "exportOptions": {
@@ -57,7 +56,6 @@
     "y": 52.32
   },
   "glyphBounds": "{{0, 3}, {97, 16}}",
-  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -82,9 +80,9 @@
       "type": 0
     },
     "do_objectID": "D537A708-F24D-45EA-A382-469316DC9D27",
-    "endMarkerType": 0,
+    "endDecorationType": 0,
     "miterLimit": 10,
-    "startMarkerType": 0,
+    "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "166D2D2A-992B-4D06-A7F3-3616C53B9CF3",
@@ -111,8 +109,7 @@
         }
       },
       "verticalAlignment": 0
-    },
-    "windingRule": 1
+    }
   },
   "textBehaviour": 0
 }

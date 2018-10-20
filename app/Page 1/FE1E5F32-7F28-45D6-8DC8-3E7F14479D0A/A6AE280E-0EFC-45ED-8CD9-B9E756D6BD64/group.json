@@ -1,6 +1,5 @@
 {
   "_class": "group",
-  "booleanOperation": 0,
   "do_objectID": "A6AE280E-0EFC-45ED-8CD9-B9E756D6BD64",
   "exportOptions": {
     "_class": "exportOptions",
@@ -20,7 +19,6 @@
     "y": 253
   },
   "hasClickThrough": false,
-  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -32,8 +30,8 @@
       "id": "26BD2EC9-1511-400A-953A-25A11B416179"
     },
     {
-      "class": "group",
-      "id": "637B7FB3-5E84-4866-8F37-DFF477728066"
+      "class": "symbolInstance",
+      "id": "15CB5741-A03E-4CCC-AD28-7D9487E4F84A"
     }
   ],
   "name": "Group Copy",
@@ -44,9 +42,8 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endMarkerType": 0,
+    "endDecorationType": 0,
     "miterLimit": 10,
-    "startMarkerType": 0,
-    "windingRule": 1
+    "startDecorationType": 0
   }
 }

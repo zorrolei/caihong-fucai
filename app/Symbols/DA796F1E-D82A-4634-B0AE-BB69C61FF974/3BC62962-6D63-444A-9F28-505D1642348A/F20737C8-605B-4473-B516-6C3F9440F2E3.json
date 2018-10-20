@@ -35,7 +35,6 @@
     "string": "东城区工人体育场北路东中街44号"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": 0,
   "do_objectID": "F20737C8-605B-4473-B516-6C3F9440F2E3",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -56,14 +55,13 @@
     "y": 44
   },
   "glyphBounds": "{{0, 1}, {167, 12}}",
-  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "由各种物质组成的巨星球状天体。叫做星球。",
+  "name": "东城区工人体育场北路东中街44号",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -71,9 +69,9 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endMarkerType": 0,
+    "endDecorationType": 0,
     "miterLimit": 10,
-    "startMarkerType": 0,
+    "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -100,8 +98,7 @@
         }
       },
       "verticalAlignment": 0
-    },
-    "windingRule": 1
+    }
   },
   "textBehaviour": 1
 }

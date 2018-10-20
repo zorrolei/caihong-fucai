@@ -1,6 +1,5 @@
 {
   "_class": "group",
-  "booleanOperation": 0,
   "do_objectID": "52427420-E580-48F9-AFF1-ED2DB30F2A45",
   "exportOptions": {
     "_class": "exportOptions",
@@ -14,13 +13,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 22,
+    "height": 30,
     "width": 30,
     "x": 20,
     "y": 0
   },
   "hasClickThrough": false,
-  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -28,8 +26,8 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "22D253D4-10DC-439D-BC84-EF0FE2FCF8DD"
+      "class": "symbolInstance",
+      "id": "3D95ECBB-BBFD-4E1D-8EC0-17C4F191EE7E"
     }
   ],
   "name": "彩票 copy 2",
@@ -40,9 +38,8 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endMarkerType": 0,
+    "endDecorationType": 0,
     "miterLimit": 10,
-    "startMarkerType": 0,
-    "windingRule": 1
+    "startDecorationType": 0
   }
 }

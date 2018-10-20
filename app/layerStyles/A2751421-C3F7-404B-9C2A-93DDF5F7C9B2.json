@@ -4,7 +4,7 @@
   "name": "009 Frozen Dreams Style",
   "value": {
     "_class": "style",
-    "endMarkerType": 0,
+    "endDecorationType": 0,
     "fills": [
       {
         "_class": "fill",
@@ -56,7 +56,6 @@
     ],
     "miterLimit": 10,
     "sharedObjectID": "A2751421-C3F7-404B-9C2A-93DDF5F7C9B2",
-    "startMarkerType": 0,
-    "windingRule": 1
+    "startDecorationType": 0
   }
 }

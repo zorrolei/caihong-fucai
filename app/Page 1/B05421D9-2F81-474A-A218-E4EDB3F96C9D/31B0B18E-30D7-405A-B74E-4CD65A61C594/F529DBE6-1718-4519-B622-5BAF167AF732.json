@@ -35,7 +35,6 @@
     "string": "手机号码"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": 0,
   "do_objectID": "F529DBE6-1718-4519-B622-5BAF167AF732",
   "dontSynchroniseWithSymbol": true,
   "exportOptions": {
@@ -58,7 +57,6 @@
     "y": 52.32
   },
   "glyphBounds": "{{0, 3}, {65, 16}}",
-  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -83,9 +81,9 @@
       "type": 0
     },
     "do_objectID": "BA7BC5F8-4400-43BF-B073-89C7F7278516",
-    "endMarkerType": 0,
+    "endDecorationType": 0,
     "miterLimit": 10,
-    "startMarkerType": 0,
+    "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "BC1CD8C1-5A50-478D-8C8B-703C0A9609C0",
@@ -113,8 +111,7 @@
         }
       },
       "verticalAlignment": 0
-    },
-    "windingRule": 1
+    }
   },
   "textBehaviour": 0
 }

@@ -35,7 +35,6 @@
     "string": "国家/地区  "
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": 0,
   "do_objectID": "B93D9BBD-2F9B-48B9-8AA0-2351B602698D",
   "dontSynchroniseWithSymbol": true,
   "exportOptions": {
@@ -58,7 +57,6 @@
     "y": 9.6
   },
   "glyphBounds": "{{1, 3}, {72, 16}}",
-  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -83,9 +81,9 @@
       "type": 0
     },
     "do_objectID": "666CC15D-48F4-4B64-ACA4-5B696AD6C342",
-    "endMarkerType": 0,
+    "endDecorationType": 0,
     "miterLimit": 10,
-    "startMarkerType": 0,
+    "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "331A45E1-6937-49FA-AA63-38A77E170E8F",
@@ -113,8 +111,7 @@
         }
       },
       "verticalAlignment": 0
-    },
-    "windingRule": 1
+    }
   },
   "textBehaviour": 1
 }

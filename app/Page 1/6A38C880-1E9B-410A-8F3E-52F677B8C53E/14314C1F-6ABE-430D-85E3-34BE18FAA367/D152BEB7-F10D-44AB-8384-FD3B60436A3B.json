@@ -33,7 +33,6 @@
     "string": "￥"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": 0,
   "do_objectID": "D152BEB7-F10D-44AB-8384-FD3B60436A3B",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -56,7 +55,6 @@
     "y": 16.875
   },
   "glyphBounds": "{{2, 3}, {7, 10}}",
-  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -81,9 +79,9 @@
       "type": 0
     },
     "do_objectID": "3DB22856-A5E7-4134-B268-F994F7C8EA70",
-    "endMarkerType": 0,
+    "endDecorationType": 0,
     "miterLimit": 10,
-    "startMarkerType": 0,
+    "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "F1532E46-43C6-4900-84CF-BA20ACF34F0F",
@@ -109,8 +107,7 @@
         "textStyleVerticalAlignmentKey": 0
       },
       "verticalAlignment": 0
-    },
-    "windingRule": 1
+    }
   },
   "textBehaviour": 0
 }

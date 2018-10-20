@@ -4,7 +4,7 @@
   "name": "019 Malibu Beach Style",
   "value": {
     "_class": "style",
-    "endMarkerType": 0,
+    "endDecorationType": 0,
     "fills": [
       {
         "_class": "fill",
@@ -56,7 +56,6 @@
     ],
     "miterLimit": 10,
     "sharedObjectID": "0ED47098-D50D-49E0-ABDF-D9FF15DA8BBF",
-    "startMarkerType": 0,
-    "windingRule": 1
+    "startDecorationType": 0
   }
 }

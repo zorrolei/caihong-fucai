@@ -34,7 +34,6 @@
     "string": "订单查询 "
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": 0,
   "do_objectID": "2D7A514B-4C4B-42F2-8DB0-922502F7A885",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -57,7 +56,6 @@
     "y": 40
   },
   "glyphBounds": "{{0, 4}, {71, 17}}",
-  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -83,9 +81,9 @@
       "type": 0
     },
     "do_objectID": "DCC93BED-D31B-43AA-8ECC-1124D279BE0E",
-    "endMarkerType": 0,
+    "endDecorationType": 0,
     "miterLimit": 10,
-    "startMarkerType": 0,
+    "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "BF82AC8B-DB03-4E95-8DB0-7D78945725CE",
@@ -112,8 +110,7 @@
         "underlineStyle": 0
       },
       "verticalAlignment": 0
-    },
-    "windingRule": 1
+    }
   },
   "textBehaviour": 0
 }

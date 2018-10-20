@@ -34,7 +34,6 @@
     "string": "彩虹"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": 0,
   "do_objectID": "D6190AB0-7412-4734-B450-C243EA01C00C",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -57,7 +56,6 @@
     "y": 40
   },
   "glyphBounds": "{{0, 4}, {36, 17}}",
-  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -83,9 +81,9 @@
       "type": 0
     },
     "do_objectID": "4342DB51-84DF-47F7-BE2E-E515A34A681F",
-    "endMarkerType": 0,
+    "endDecorationType": 0,
     "miterLimit": 10,
-    "startMarkerType": 0,
+    "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "FCDFE697-72EB-4B26-A3C6-06161CED47CF",
@@ -112,8 +110,7 @@
         "underlineStyle": 0
       },
       "verticalAlignment": 0
-    },
-    "windingRule": 1
+    }
   },
   "textBehaviour": 0
 }

@@ -7,7 +7,6 @@
     "green": 0.9450980392156862,
     "red": 0.9450980392156862
   },
-  "booleanOperation": -1,
   "do_objectID": "B2803E76-240C-417E-8D3D-FF8602CC9B01",
   "exportOptions": {
     "_class": "exportOptions",
@@ -36,7 +35,6 @@
   },
   "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
-  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isFlowHome": false,
@@ -81,10 +79,9 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "endMarkerType": 0,
+    "endDecorationType": 0,
     "miterLimit": 10,
-    "startMarkerType": 0,
-    "windingRule": 1
+    "startDecorationType": 0
   },
   "userInfo": {
     "io.magicsketch.mirror": {

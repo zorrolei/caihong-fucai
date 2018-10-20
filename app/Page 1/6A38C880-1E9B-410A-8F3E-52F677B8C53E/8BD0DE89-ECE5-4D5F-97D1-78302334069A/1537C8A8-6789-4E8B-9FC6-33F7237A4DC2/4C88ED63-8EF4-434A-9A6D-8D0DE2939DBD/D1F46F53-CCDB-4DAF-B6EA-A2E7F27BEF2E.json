@@ -59,7 +59,6 @@
     "string": "券号：2342 3423 42"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": 0,
   "do_objectID": "D1F46F53-CCDB-4DAF-B6EA-A2E7F27BEF2E",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -80,7 +79,6 @@
     "y": 0
   },
   "glyphBounds": "{{0, 3}, {135, 14}}",
-  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -95,9 +93,9 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endMarkerType": 0,
+    "endDecorationType": 0,
     "miterLimit": 10,
-    "startMarkerType": 0,
+    "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -121,8 +119,7 @@
         }
       },
       "verticalAlignment": 0
-    },
-    "windingRule": 1
+    }
   },
   "textBehaviour": 1
 }

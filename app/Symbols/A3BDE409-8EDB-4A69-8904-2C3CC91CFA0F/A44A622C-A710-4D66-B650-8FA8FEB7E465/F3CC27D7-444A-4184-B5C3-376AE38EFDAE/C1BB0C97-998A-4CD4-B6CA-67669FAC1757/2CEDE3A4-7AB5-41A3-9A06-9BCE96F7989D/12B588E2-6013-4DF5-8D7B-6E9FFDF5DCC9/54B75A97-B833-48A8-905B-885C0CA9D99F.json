@@ -15,13 +15,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 10.537109375,
-    "width": 10.69140625,
-    "x": 3.20703125,
+    "height": 42.67946088485203,
+    "width": 43.30442426018166,
+    "x": 12.98974509229417,
     "y": 0
   },
   "isClosed": true,
-  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

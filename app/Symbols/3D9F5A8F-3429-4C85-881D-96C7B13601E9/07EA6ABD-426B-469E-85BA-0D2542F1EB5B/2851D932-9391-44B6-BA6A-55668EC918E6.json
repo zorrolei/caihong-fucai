@@ -27,7 +27,6 @@
     "string": "12:30"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": 0,
   "do_objectID": "2851D932-9391-44B6-BA6A-55668EC918E6",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -48,7 +47,6 @@
     "y": 0
   },
   "glyphBounds": "{{0, 0}, {36, 16.40625}}",
-  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -63,7 +61,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endMarkerType": 0,
+    "endDecorationType": 0,
     "fills": [
       {
         "_class": "fill",
@@ -83,7 +81,7 @@
       }
     ],
     "miterLimit": 10,
-    "startMarkerType": 0,
+    "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -102,8 +100,7 @@
         }
       },
       "verticalAlignment": 0
-    },
-    "windingRule": 1
+    }
   },
   "textBehaviour": 0
 }
