@@ -1,0 +1,51 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "31100E90-0464-467D-8D49-766BFE26B5E6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CAEC916D-0F68-4641-9FCE-70318E4EAF27",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "DD9384F5-EAFF-490D-B788-BEF96E40D4FA",
+    "height": 41,
+    "width": 60,
+    "x": 93,
+    "y": 12
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "FFFB967E-65C4-4041-AB80-01EB8A199770"
+    }
+  ],
+  "name": "代金券",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C4CA1AE9-7594-437C-A08A-3DD8FC1F44A5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

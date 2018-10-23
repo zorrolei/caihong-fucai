@@ -1,0 +1,118 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "do_objectID": "BD3D9A6F-1471-45D4-8F2F-301C3D86725A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 768,
+    "width": 1366,
+    "x": 5039,
+    "y": 222
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "4100F46C-DAC8-4854-B711-ACDFC204B9BB"
+    },
+    {
+      "class": "text",
+      "id": "0F0698B2-CB6F-4D36-A2BE-888261D43862"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B054CCC9-4BB7-4538-ADB2-9966FE113D4F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B2C8E54A-2928-4E84-839D-FFEEC5B8AA58"
+    },
+    {
+      "class": "text",
+      "id": "A0BBF737-94A3-48E8-A8C7-91EB4BA865CF"
+    },
+    {
+      "class": "text",
+      "id": "0FB66C19-BF6B-4687-B5A2-45A1FA473AD8"
+    },
+    {
+      "class": "group",
+      "id": "D784861F-63E8-432B-8924-8453510C7474"
+    },
+    {
+      "class": "group",
+      "id": "EC8B30C0-0F82-4165-9AAF-E67AE5C39C31"
+    },
+    {
+      "class": "group",
+      "id": "467ADA7B-C1F7-47B4-A1FC-C0DED4C6ADA2"
+    }
+  ],
+  "name": "打印完成",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": -1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
