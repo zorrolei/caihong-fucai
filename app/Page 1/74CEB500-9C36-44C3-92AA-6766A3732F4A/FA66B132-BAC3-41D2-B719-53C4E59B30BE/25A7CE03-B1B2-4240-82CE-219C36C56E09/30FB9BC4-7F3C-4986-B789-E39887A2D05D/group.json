@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "30FB9BC4-7F3C-4986-B789-E39887A2D05D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8A42DAA5-3306-43F1-9BA4-73BA1C5CC933",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BCEB0518-759B-4ED8-90C8-10A11A4E2CC0",
+    "height": 42.48046875,
+    "width": 65.625,
+    "x": 17.1875,
+    "y": 28.80859375
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "08B7FFC8-EF55-4BC2-BA23-08372FC85FF5"
+    }
+  ],
+  "name": "券卡",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "5F5F648E-CE07-4264-9339-7F326709320C",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 0.19073486328125,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "B0E7B09C-3748-4E14-BCA9-BF2F67FCDD4C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

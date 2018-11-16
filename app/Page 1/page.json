@@ -1,5 +1,7 @@
 {
   "_class": "page",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "ecb2c710-d2d0-11e8-984f-b15c259ce69e",
   "exportOptions": {
     "_class": "exportOptions",
@@ -19,6 +21,7 @@
     "y": 0
   },
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": -333,
@@ -26,6 +29,7 @@
     ]
   },
   "includeInCloudUpload": true,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -67,6 +71,14 @@
     {
       "class": "artboard",
       "id": "B2803E76-240C-417E-8D3D-FF8602CC9B01"
+    },
+    {
+      "class": "artboard",
+      "id": "74CEB500-9C36-44C3-92AA-6766A3732F4A"
+    },
+    {
+      "class": "artboard",
+      "id": "4F01A437-7592-47AA-970C-6AE53A69DD96"
     }
   ],
   "name": "Page 1",
@@ -77,9 +89,10 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   },
   "verticalRulerData": {
     "_class": "rulerData",

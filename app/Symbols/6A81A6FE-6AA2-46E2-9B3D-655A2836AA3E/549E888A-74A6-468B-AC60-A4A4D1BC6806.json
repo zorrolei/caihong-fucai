@@ -35,6 +35,8 @@
     "string": "由各种物质组成的巨星球状天体。叫做星球。星球有一定的形状，有自己的运行轨道。"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "549E888A-74A6-468B-AC60-A4A4D1BC6806",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -55,6 +57,8 @@
     "y": 34
   },
   "glyphBounds": "{{0, 0}, {412, 13}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -69,9 +73,9 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -98,7 +102,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }

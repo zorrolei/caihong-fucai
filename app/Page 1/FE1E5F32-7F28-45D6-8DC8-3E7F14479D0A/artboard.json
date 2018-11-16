@@ -7,6 +7,8 @@
     "green": 0.9450980392156862,
     "red": 0.9450980392156862
   },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "FE1E5F32-7F28-45D6-8DC8-3E7F14479D0A",
   "exportOptions": {
     "_class": "exportOptions",
@@ -36,6 +38,7 @@
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -44,6 +47,7 @@
   },
   "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isFlowHome": false,
@@ -60,7 +64,7 @@
       "id": "BBD6B343-1807-406C-B26A-A9FA629FE713"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "750BCAE0-2B77-4DDF-91A9-3B3DA68A4114"
     },
     {
@@ -68,7 +72,7 @@
       "id": "9CF7EEB5-5AE1-45E0-AE78-03FF19627FBC"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "65E3A5F8-23DD-4A2A-98A8-B5D4A8F51885"
     },
     {
@@ -84,7 +88,7 @@
       "id": "E316BE6D-C0C9-45CC-8D9A-84D4F399A4E0"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "3978D466-EA37-4F84-B046-B904916C922C"
     },
     {
@@ -108,11 +112,11 @@
       "id": "1CE1BAF8-45DB-43C9-8D57-07C449004A6B"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "CA66EF67-8BCD-4DFD-8886-B4D0CE3BB000"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "8741406E-F1C0-47E9-960F-6871E0E7D2C6"
     },
     {
@@ -132,7 +136,7 @@
       "id": "411FFCD3-ACBD-4FF2-9E9D-9A66BE3A66B3"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "AF109401-B5C1-4B61-8812-758C67041C77"
     },
     {
@@ -156,9 +160,10 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   },
   "userInfo": {
     "io.magicsketch.mirror": {

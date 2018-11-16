@@ -34,6 +34,8 @@
     "string": "输入验证码"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "941988E2-7DC3-41EA-A51E-5AFACD644243",
   "dontSynchroniseWithSymbol": true,
   "exportOptions": {
@@ -56,6 +58,8 @@
     "y": 10.31999999999994
   },
   "glyphBounds": "{{0, 3}, {81, 16}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -77,12 +81,13 @@
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 7.199999999999999,
+      "saturation": 1,
       "type": 0
     },
     "do_objectID": "0A849078-F413-4F1C-84D0-99F95FA57D8F",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "9C559F14-0E09-4E1C-9772-35E6635E6E30",
@@ -109,7 +114,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0
 }

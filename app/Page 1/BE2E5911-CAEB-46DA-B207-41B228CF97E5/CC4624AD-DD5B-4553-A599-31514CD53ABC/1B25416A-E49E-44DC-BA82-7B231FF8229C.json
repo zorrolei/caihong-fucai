@@ -34,6 +34,8 @@
     "string": "会员"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "1B25416A-E49E-44DC-BA82-7B231FF8229C",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -56,6 +58,8 @@
     "y": 40
   },
   "glyphBounds": "{{0, 4}, {35, 17}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -78,12 +82,13 @@
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 3.333333333333333,
+      "saturation": 1,
       "type": 0
     },
     "do_objectID": "ABC90F98-E7C5-4638-B0DB-50452902763C",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "DDA9D09A-A3B5-480F-A982-1EA46A9F394D",
@@ -110,7 +115,8 @@
         "underlineStyle": 0
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0
 }

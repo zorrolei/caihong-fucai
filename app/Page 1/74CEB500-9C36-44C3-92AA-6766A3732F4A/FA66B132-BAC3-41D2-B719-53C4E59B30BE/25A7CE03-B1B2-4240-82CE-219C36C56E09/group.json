@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "25A7CE03-B1B2-4240-82CE-219C36C56E09",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "32C71DB6-1B2D-4902-95C6-1C23BF981E43",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FF8DCA0B-7A4E-4FFA-9526-88FECC88E3C6",
+    "height": 100,
+    "width": 100,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "147EECC0-D3B9-47E1-8615-E4BE37326BEF"
+    },
+    {
+      "class": "oval",
+      "id": "F97BA923-DA31-4B28-80E9-0887B781CB80"
+    },
+    {
+      "class": "group",
+      "id": "30FB9BC4-7F3C-4986-B789-E39887A2D05D"
+    }
+  ],
+  "name": "券",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "B8EFE91B-7609-4136-B0C0-0EB2B942D91B",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 0.9765625,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "7E61E042-C224-45C1-A85C-278FB69F1476",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

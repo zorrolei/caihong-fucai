@@ -35,6 +35,8 @@
     "string": "1张 \n使用积分：3000\n兑换日期：2018-10-18"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "E29FD27F-948D-4101-B123-6257DF1FA139",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -55,6 +57,8 @@
     "y": 3
   },
   "glyphBounds": "{{0, 4}, {125, 52}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -69,9 +73,9 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -98,7 +102,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }
