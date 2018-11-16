@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "89233E3E-10CF-46F2-9260-19E6962D875D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C6278F43-A37F-413B-8220-5DD1B894FB06",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1704FB66-C5BC-4D58-970E-AB266F2B49EB",
+    "height": 44.04296875,
+    "width": 44.04296875,
+    "x": 2.978515625,
+    "y": 2.978515625
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": true,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "87790E93-D8F9-4164-BB6C-1937989ED25B"
+    },
+    {
+      "class": "rectangle",
+      "id": "D2D2517E-8C42-4BF2-993B-FF2769D355CC"
+    }
+  ],
+  "name": "钱包 背",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "7FBA93D2-356F-41AB-8425-D0F0256C04A7",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 0.48828125,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "2C2C3A96-B15D-4534-92FC-96335841D7E2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

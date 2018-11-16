@@ -37,7 +37,7 @@
     "y": 174
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -69,11 +69,11 @@
     },
     {
       "class": "group",
-      "id": "C46A6AFC-2C41-4C78-B918-5E061A5C02FB"
+      "id": "03CC48B0-831C-4D0D-A11D-1CB76953910D"
     },
     {
       "class": "group",
-      "id": "CFF53536-EE5C-4BB5-8C21-7E9FF96C0DC2"
+      "id": "FA582E41-550D-4B2F-BF99-228879D1985D"
     }
   ],
   "name": "Android Copy",

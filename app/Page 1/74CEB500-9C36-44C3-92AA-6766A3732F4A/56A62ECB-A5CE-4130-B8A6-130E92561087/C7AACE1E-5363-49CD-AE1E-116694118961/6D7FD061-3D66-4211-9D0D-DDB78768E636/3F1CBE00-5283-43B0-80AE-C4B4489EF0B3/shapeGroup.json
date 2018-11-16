@@ -1,0 +1,128 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3F1CBE00-5283-43B0-80AE-C4B4489EF0B3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0002E89E-3313-44AD-8696-6B91E3FCE2A1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F53190A8-3FD7-4D07-BBBF-B1C120A9FE82",
+    "height": 47.56153362440278,
+    "width": 52.02737144599173,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "0BE26494-07A7-49A6-A556-24304C803572"
+    },
+    {
+      "class": "shapePath",
+      "id": "2CF8DE18-A862-4B0A-AD03-16D4D6C4F086"
+    },
+    {
+      "class": "shapePath",
+      "id": "9A4E2677-79C1-4B25-BE9A-A65D1D76C35E"
+    },
+    {
+      "class": "shapePath",
+      "id": "ACBA262E-CA2F-4D81-BEAF-9BF2B2214AF4"
+    },
+    {
+      "class": "shapePath",
+      "id": "0C437BC4-5725-4F13-BE3F-CB5659241F9A"
+    },
+    {
+      "class": "shapePath",
+      "id": "F7E84E15-4608-4041-8CB2-247D5B2B7CEB"
+    },
+    {
+      "class": "shapePath",
+      "id": "0E98D30C-7769-4D6B-8596-24018F5ED971"
+    }
+  ],
+  "name": "Shape",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "A41AC7A1-30EC-465F-9100-B689FEDA3F09",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 0.19073486328125,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "36774BFA-61AA-473D-AE5E-C06D9191DB2C",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.807843137254902,
+          "green": 0.9725490196078431,
+          "red": 0.9921568627450981
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 2,
+        "color": {
+          "_class": "color",
+          "alpha": 0.313377490942029,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 1,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}

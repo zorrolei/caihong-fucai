@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6CA411EC-AB91-4CC3-AEBC-D815F02E251B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4C99950D-BD22-4647-80C0-198D3A54BCDB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AAEF9585-878B-4E01-AFA7-B533C9BCC7A8",
+    "height": 15.673828125,
+    "width": 23.92578125,
+    "x": 6.93359375,
+    "y": 5.76171875
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "82AD5633-67A5-4E45-98A8-6400B3CD6003"
+    },
+    {
+      "class": "oval",
+      "id": "C35D19CD-00E4-45DD-A418-AAC206F73195"
+    },
+    {
+      "class": "oval",
+      "id": "B79DE77B-B9EB-4F94-BBBF-A24E6C8B4EA4"
+    }
+  ],
+  "name": "高光",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "32155E19-073B-46A4-80C3-60315AC1EA6B",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 0.48828125,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "90E7FA20-9A76-478B-98E6-6E7FFF0835F2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

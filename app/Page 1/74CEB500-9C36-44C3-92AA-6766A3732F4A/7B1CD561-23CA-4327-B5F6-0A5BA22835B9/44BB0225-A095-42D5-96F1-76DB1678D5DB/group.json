@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "44BB0225-A095-42D5-96F1-76DB1678D5DB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2BDDB107-1EFE-43B9-AFDE-E925EB3A08A0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0F9F810E-0A48-46CE-9A1E-EFC8E02A7994",
+    "height": 31.34765625,
+    "width": 47.8515625,
+    "x": 13.8671875,
+    "y": 11.5234375
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "311EDDEE-956B-4F96-A60D-2D9562F6EA2E"
+    },
+    {
+      "class": "oval",
+      "id": "79329754-8DC5-4308-ABBB-63C69F5E582C"
+    },
+    {
+      "class": "oval",
+      "id": "19AA44D1-8C3B-43DE-A2C3-B4B0D7E82A21"
+    }
+  ],
+  "name": "高光",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "2C9200CB-6B9A-44C0-BEF1-634B3C22D920",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 0.9765625,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "E8168164-9D82-415B-AFFE-C7BEC7DEA018",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
