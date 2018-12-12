@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D415F3F5-0C86-472F-B62A-C4FE349CFF10",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CDFF7589-76BB-4DF1-A82D-C775B69F908C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1E900416-A7C5-4AE5-8C4A-54100137FA8A",
+    "height": 227.2617187500001,
+    "width": 227.2617187500001,
+    "x": 15.369140625,
+    "y": 15.369140625
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": true,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "02AB426F-6EF1-4047-AB9C-F48655629D2D"
+    },
+    {
+      "class": "rectangle",
+      "id": "3199B529-0CFF-48C8-BA49-460FC6523AA3"
+    },
+    {
+      "class": "group",
+      "id": "2605E0E4-9D28-4CB6-8A77-0B03129F24B3"
+    }
+  ],
+  "name": "钱包",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "6E7E7CC3-2ED3-4CAC-84FB-6A634723918B",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 2.52,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "54AB4BBE-C356-4F3E-9354-671BE39EBDE7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

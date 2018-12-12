@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "4934137C-B516-49A3-B881-616D26B20614",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A83E88BC-CA39-45CC-957B-2095940F4BD7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E4EC66A9-4D75-44DD-8A50-B4E6B8827C7B",
+    "height": 2.417495029820998,
+    "width": 228.7261146496815,
+    "x": 265.0318471337579,
+    "y": 502.8389662027834
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "7866207F-DFD2-4C97-9D52-5745C1C6322A"
+    },
+    {
+      "class": "rectangle",
+      "id": "B808922F-9DF5-4487-955D-3B16D41B83A3"
+    },
+    {
+      "class": "rectangle",
+      "id": "574316C5-85FD-45C4-ABDE-CC0B0805E08A"
+    }
+  ],
+  "name": "iMac/01/Shadow",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "72340585-C661-4D9A-9B7E-CF095B9C2734",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 4.199999999999999,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "5FA6349B-55E4-4DC5-9D88-1A0A2691E45F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C1176C63-2B85-45A0-82A6-3234132E3E80",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2DF1C40A-467D-44CD-AB9B-A540310D8BE8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "BC57FA24-482F-4338-AB8A-C9667A5488A9",
+    "height": 6.58245474312298,
+    "width": 32.05980029554982,
+    "x": 245.6596902667754,
+    "y": 345.9101072638551
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "49C99CFB-F5DF-42E2-921F-E983D752D156"
+    },
+    {
+      "class": "shapePath",
+      "id": "16C7A0AC-0D1B-4A6F-B89D-19046CFA99F5"
+    },
+    {
+      "class": "shapePath",
+      "id": "C52331A2-BA7B-4159-AF64-ED331FCDC560"
+    },
+    {
+      "class": "shapePath",
+      "id": "5412F665-9F6B-484F-A6C1-EDA49AB4BBF7"
+    },
+    {
+      "class": "shapePath",
+      "id": "518D06D2-6638-49A2-9B6B-CDF738B4B801"
+    },
+    {
+      "class": "shapePath",
+      "id": "28D7EFE6-AF94-4834-8611-53997CD3A688"
+    },
+    {
+      "class": "shapePath",
+      "id": "9B91800F-4926-4595-8972-666C719C7179"
+    },
+    {
+      "class": "shapePath",
+      "id": "CD017240-CC46-4BB8-ADD8-81A7C00FAA36"
+    },
+    {
+      "class": "shapePath",
+      "id": "CB9C3DC8-59EF-4BC3-B014-7F06D6F676E2"
+    },
+    {
+      "class": "shapePath",
+      "id": "2E7935AA-6F80-4768-8DDB-AAEC19F1C5AC"
+    },
+    {
+      "class": "shapePath",
+      "id": "2752C5D9-4898-426D-9A98-BECAC59B06B7"
+    },
+    {
+      "class": "shapePath",
+      "id": "B4185B3C-4B59-40FD-8FED-339B0AFAFE41"
+    }
+  ],
+  "name": "MacBook",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "50597616-56EF-4075-9989-64A951868DF6",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 6,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "04BC61F0-0FB8-459A-8F4B-85908A7572A5",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0.0873528079710145,
+          "blue": 0.7803921568627451,
+          "green": 0.7686274509803922,
+          "red": 0.7764705882352941
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "innerShadows": [
+      {
+        "_class": "innerShadow",
+        "blurRadius": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 0,
+        "spread": 0
+      }
+    ],
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 1,
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 0,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "1BFC540E-2877-44D5-831C-50F140253A33",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "LucidaGrande",
+            "size": 14
+          }
+        },
+        "kerning": -0.8999999761581421,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "allowsDefaultTighteningForTruncation": 0
+        }
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

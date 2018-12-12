@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "776486A3-FBF3-47C8-8BC5-C66CD9B0291D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 80,
+    "width": 360,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "E4E47C09-12AC-421A-94E7-CAE73F6D5E5B"
+    },
+    {
+      "class": "rectangle",
+      "id": "022577E6-A7AB-4A9D-AA69-7BC16773EA81"
+    },
+    {
+      "class": "group",
+      "id": "66F8438F-D164-46E3-ACD3-D603C10E9C47"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "17487C3B-9DCC-4120-8926-B50BF5B96938"
+    },
+    {
+      "class": "text",
+      "id": "B4DE950A-9C72-4556-9835-8C886457073C"
+    }
+  ],
+  "name": "Android Dark",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

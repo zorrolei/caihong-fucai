@@ -1,0 +1,72 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "A54F0D56-3E32-433A-8169-AA0F2B661F59",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9831DF93-C5FE-4624-B15F-77EABCC4B4C9",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4644BBC8-F67D-4292-8FF0-9798C26FC86E",
+    "height": 631,
+    "width": 840,
+    "x": 0,
+    "y": -11
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "C779408C-388F-49DA-9073-6D161220DCA3"
+    }
+  ],
+  "name": "Mockup 08",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "AE740BCA-D729-48B8-88A8-BC6A46EF902E",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 2.8,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "AD1E1442-E4D8-4A5C-8FA4-16FBA7F8A6F9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -57,31 +57,7 @@
   "layers": [
     {
       "class": "group",
-      "id": "CAC27022-9CC6-478F-A4D9-A6CCC1F6410A"
-    },
-    {
-      "class": "oval",
-      "id": "EF7BBDB3-10EC-4741-98D6-3F53C646E5C0"
-    },
-    {
-      "class": "group",
-      "id": "E6997A8D-0865-486E-B295-48B54FD36FC5"
-    },
-    {
-      "class": "group",
-      "id": "C3274BA8-8864-4704-A8D9-23AF24C76D9F"
-    },
-    {
-      "class": "group",
-      "id": "AB76827F-05CE-48BC-AE21-850A5204DAFB"
-    },
-    {
-      "class": "group",
-      "id": "8494274E-9951-4783-B57F-9FC71C56C96B"
-    },
-    {
-      "class": "group",
-      "id": "6531DB08-B715-4081-A131-637748053C81"
+      "id": "C45BFBB3-B73F-4C4A-9A70-CBFC8BA68C2C"
     }
   ],
   "name": "Artboard Copy 4",
@@ -100,7 +76,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": -1
+      "highestQuality": 1
     }
   },
   "verticalRulerData": {

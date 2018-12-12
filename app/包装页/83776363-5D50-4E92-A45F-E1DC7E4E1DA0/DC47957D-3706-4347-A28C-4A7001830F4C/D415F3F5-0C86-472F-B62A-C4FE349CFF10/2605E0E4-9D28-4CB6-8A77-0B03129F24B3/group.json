@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2605E0E4-9D28-4CB6-8A77-0B03129F24B3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CA6021E8-2EA3-41CF-BF65-D9294A8B1F6A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7A09E9E1-7342-4331-BA07-8ED9CFC64FE7",
+    "height": 26.70703125000006,
+    "width": 26.70703125000002,
+    "x": 100.27734375,
+    "y": 185.185546875
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "8CF8DF60-0C02-4F0C-B8BA-12D65E4EA74A"
+    },
+    {
+      "class": "shapePath",
+      "id": "178996AF-6A61-47BA-9876-C2F530CC517A"
+    }
+  ],
+  "name": "开",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "9BA0162C-22FB-49B7-BA64-811B4B6A7592",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 2.52,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "90C1DCD9-A537-41D6-844A-7A9FA1B65428",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

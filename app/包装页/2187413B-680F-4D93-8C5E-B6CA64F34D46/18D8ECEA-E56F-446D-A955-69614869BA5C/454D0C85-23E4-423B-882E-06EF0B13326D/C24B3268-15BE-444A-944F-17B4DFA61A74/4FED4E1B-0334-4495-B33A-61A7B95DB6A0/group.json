@@ -1,0 +1,97 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "4FED4E1B-0334-4495-B33A-61A7B95DB6A0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F46B7650-319F-439F-BA58-072FB2F8E930",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BD021930-1713-4306-AFC3-029540FCF93D",
+    "height": 369.799352750809,
+    "width": 526.3634669151911,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A71398DA-1AA5-45DD-B530-63E112819E78"
+    },
+    {
+      "class": "oval",
+      "id": "CFB2DED6-39A9-4DBC-8110-BB21C95003C7"
+    },
+    {
+      "class": "oval",
+      "id": "E134ABBD-769B-479A-9F60-D18A90E589AE"
+    },
+    {
+      "class": "shapePath",
+      "id": "D691FEDB-834A-4F29-BAFD-4052B6B8BCCE"
+    }
+  ],
+  "name": "Group",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "1502B556-45F6-4C04-9E43-BE729CC2235E",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 6,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "481ACEE4-D802-4E30-A7C0-BBA17ADDC3F9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 2,
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 1,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
