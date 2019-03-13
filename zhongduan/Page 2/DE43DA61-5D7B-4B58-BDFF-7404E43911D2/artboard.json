@@ -1,0 +1,155 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.1372549019607843,
+    "green": 0.6509803921568628,
+    "red": 0.9607843137254902
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DE43DA61-5D7B-4B58-BDFF-7404E43911D2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 768,
+    "width": 1366,
+    "x": 2248,
+    "y": -385
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "D2011C56-02E5-42C6-BE4C-08EF638D0480"
+    },
+    {
+      "class": "group",
+      "id": "6522F796-DD55-4B15-AFEC-9DB506A7C2C3"
+    },
+    {
+      "class": "group",
+      "id": "817D6123-2727-4D71-8634-E229265D0715"
+    },
+    {
+      "class": "group",
+      "id": "AD6C7182-FD50-4975-A9C5-018815F62CDA"
+    },
+    {
+      "class": "group",
+      "id": "F35783A1-168C-413E-B645-5C8720A73381"
+    },
+    {
+      "class": "rectangle",
+      "id": "F54C6C59-8032-4C36-B310-1A562F92C33B"
+    },
+    {
+      "class": "shapePath",
+      "id": "61D3763C-FC1D-4CAC-9BC8-FF57545F3C1E"
+    },
+    {
+      "class": "text",
+      "id": "6B63C1F3-1EB0-48E6-98E8-D8E5A942C576"
+    },
+    {
+      "class": "group",
+      "id": "C46F69F7-58CE-4DD7-9CD0-065E1FF36CAB"
+    },
+    {
+      "class": "group",
+      "id": "E6226155-D420-4BAC-B9E0-7EC7E66A8EA7"
+    },
+    {
+      "class": "group",
+      "id": "6A273330-E26C-47E0-AC34-9CA69AC24A0C"
+    },
+    {
+      "class": "shapePath",
+      "id": "64EF6182-E15E-4001-A73A-1BA682EF58AA"
+    },
+    {
+      "class": "shapePath",
+      "id": "C9840A65-201D-4B10-A772-3EC0AC1AB5E0"
+    },
+    {
+      "class": "shapePath",
+      "id": "739DDF2E-330A-4128-BAF3-9FBC6BBEA285"
+    },
+    {
+      "class": "group",
+      "id": "7827BB1E-4C8C-4527-A8B9-80DADF5B1F82"
+    },
+    {
+      "class": "text",
+      "id": "A0652D36-DB50-45C6-99AF-7E80F173F821"
+    },
+    {
+      "class": "text",
+      "id": "27486874-0017-46E3-8167-A981B4DE31D7"
+    }
+  ],
+  "name": "订单确认页",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": -1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

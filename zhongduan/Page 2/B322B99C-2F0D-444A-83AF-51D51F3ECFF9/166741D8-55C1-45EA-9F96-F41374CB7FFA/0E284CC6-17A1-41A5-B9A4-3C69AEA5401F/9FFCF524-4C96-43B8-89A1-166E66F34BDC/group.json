@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9FFCF524-4C96-43B8-89A1-166E66F34BDC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "61F5A268-BD8F-438D-BCA4-CD582D447B3E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "872CA495-42B1-489B-B5A8-F2502BBD7FB3",
+    "height": 19.67213114754098,
+    "width": 19.67213114754098,
+    "x": 22.95081967213115,
+    "y": 10.65573770491803
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "198F054A-B4E2-479C-AE50-8D0D9E6AE92F"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "209F3387-068C-486C-B38A-D728028CF37A"
+    }
+  ],
+  "name": "二维码 (1)",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "5378D2A2-F98F-42A4-9142-0AA9398CE9B2",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 1.953125,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "F29A6290-1BEC-4A08-9F46-C4E6DD34DE2D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

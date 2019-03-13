@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3876E23A-F77C-4577-9CBE-AFDD2BF63E48",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "51E6E092-EE1A-40A7-9036-8858E160C183",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "20CD4DCB-F107-4D9B-96DC-5AAFE326F9C7",
+    "height": 25,
+    "width": 35,
+    "x": 2.735571585149955,
+    "y": 152.3118325219649
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "4D2A4C77-7E77-46CF-BA33-F73640C9752D"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F4FB7B95-E84A-45B8-9E04-D5DE762732EE"
+    }
+  ],
+  "name": "彩票",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 60,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "07C8B0F2-76D5-4BAA-A248-556C691052F0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
