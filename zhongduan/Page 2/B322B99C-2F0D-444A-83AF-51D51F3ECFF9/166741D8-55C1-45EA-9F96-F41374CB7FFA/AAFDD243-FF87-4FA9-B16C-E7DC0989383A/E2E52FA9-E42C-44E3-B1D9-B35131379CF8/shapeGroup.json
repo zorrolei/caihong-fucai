@@ -69,9 +69,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.1058823529411765,
-          "green": 0.007843137254901959,
-          "red": 0.8156862745098039
+          "blue": 0.1098039215686274,
+          "green": 0.9058823529411765,
+          "red": 0.9725490196078431
         },
         "fillType": 0,
         "isEnabled": true,
@@ -98,7 +98,7 @@
           "blendMode": 0,
           "opacity": 1
         },
-        "isEnabled": true,
+        "isEnabled": false,
         "offsetX": 4,
         "offsetY": -4,
         "spread": 0

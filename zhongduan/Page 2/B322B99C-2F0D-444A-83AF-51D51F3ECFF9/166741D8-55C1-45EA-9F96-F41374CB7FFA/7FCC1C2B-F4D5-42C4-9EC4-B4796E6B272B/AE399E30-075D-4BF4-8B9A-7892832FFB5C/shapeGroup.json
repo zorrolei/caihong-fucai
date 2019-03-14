@@ -18,7 +18,7 @@
     "height": 49.98210900473934,
     "width": 48.19212085308057,
     "x": 0.01534360189571947,
-    "y": 0.007345971563979918
+    "y": 0.007345971563979916
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -69,9 +69,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.1058823529411765,
-          "green": 0.00784313725490196,
-          "red": 0.8156862745098039
+          "blue": 0.1098039215686274,
+          "green": 0.9058823529411765,
+          "red": 0.9725490196078431
         },
         "fillType": 0,
         "isEnabled": true,
@@ -98,7 +98,7 @@
           "blendMode": 0,
           "opacity": 1
         },
-        "isEnabled": true,
+        "isEnabled": false,
         "offsetX": 4,
         "offsetY": -4,
         "spread": 0
