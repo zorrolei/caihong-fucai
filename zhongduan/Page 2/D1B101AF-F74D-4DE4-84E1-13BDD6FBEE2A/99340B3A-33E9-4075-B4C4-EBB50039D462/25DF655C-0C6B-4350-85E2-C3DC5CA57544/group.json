@@ -15,13 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 397,
-    "width": 450,
+    "height": 476,
+    "width": 540,
     "x": 0,
     "y": 0
-  },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -30,7 +27,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
@@ -53,6 +50,15 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 12,
+      "saturation": 1,
+      "type": 0
+    },
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

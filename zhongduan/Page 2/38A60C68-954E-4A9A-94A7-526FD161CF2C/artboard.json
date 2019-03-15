@@ -36,9 +36,6 @@
     "x": 3714,
     "y": -385
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -56,27 +53,23 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
       "id": "4E25DBF9-53C5-4856-8F8F-F04A4342F6D5"
     },
     {
-      "class": "group",
-      "id": "E95A2B4B-67C6-4B0B-B5D7-6B4D02E5D89C"
+      "class": "symbolInstance",
+      "id": "2894F417-68C5-48D0-A317-A9B80B31AA19"
     },
     {
-      "class": "group",
-      "id": "94DADC32-B048-48A5-A249-D4FBF179278C"
+      "class": "symbolInstance",
+      "id": "323CB299-E9FC-4641-9C58-B9BA68471AB2"
     },
     {
-      "class": "group",
-      "id": "198F9F7F-5410-4FE0-BB3B-DC8306D99282"
-    },
-    {
-      "class": "group",
-      "id": "EE7C975B-9C05-410A-BA7A-6B551601C88F"
+      "class": "symbolInstance",
+      "id": "C6B3560D-3B62-4146-9288-F2F3CBBD5D52"
     },
     {
       "class": "rectangle",
@@ -105,6 +98,10 @@
     {
       "class": "bitmap",
       "id": "63530513-FDB5-4AEE-8F53-7023D5883245"
+    },
+    {
+      "class": "group",
+      "id": "31E9128F-246B-4347-881B-B8584FF762FE"
     }
   ],
   "name": "扫码支付页",

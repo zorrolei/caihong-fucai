@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0A20AEFE-74E8-4BC2-92AA-8E4298D4448A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4BC53978-5B14-4804-B148-1B659ADB7183",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EE0D41D4-A82A-4B11-A2CF-009E861E6BB5",
+    "height": 100,
+    "width": 278,
+    "x": 544,
+    "y": 651
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "button copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E20DF07B-01B0-4C10-B372-F70437ED825D",
+      "overrideName": "590A85FD-A190-42B8-B13B-D02C28E3E762_stringValue",
+      "value": "登出账号"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "433CA814-A40F-4349-A389-5B2A4A5C2C01",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "07D2B601-0738-4475-B936-B8B68C284872",
+  "verticalSpacing": 0
+}

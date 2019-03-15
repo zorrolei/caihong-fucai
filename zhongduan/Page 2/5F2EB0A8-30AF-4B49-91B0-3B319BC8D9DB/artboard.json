@@ -33,11 +33,8 @@
     "constrainProportions": false,
     "height": 768,
     "width": 1366,
-    "x": 6646,
+    "x": -684,
     "y": -385
-  },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -163,7 +160,7 @@
       "id": "880594AB-A292-4151-84EF-7DB307204F03"
     }
   ],
-  "name": "扫码登陆页 copy",
+  "name": "扫码登陆页",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

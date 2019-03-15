@@ -38,10 +38,6 @@
     "x": 782,
     "y": -385
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "37E0ABF3-5B67-437E-88EC-7A718B48915A"
-  },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -60,7 +56,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
@@ -71,16 +67,16 @@
       "id": "A9D458BF-A26D-4097-8A8F-6B87B598FE77"
     },
     {
-      "class": "group",
-      "id": "17310C2A-D9F7-4460-B4BE-6A18C605F674"
+      "class": "symbolInstance",
+      "id": "2119F81F-9B55-4FB8-B83D-0470E8C698FA"
     },
     {
-      "class": "group",
-      "id": "B39294F2-000B-42EE-89CE-FF9A17B5D539"
+      "class": "symbolInstance",
+      "id": "BD79A7FC-462F-4834-AF18-BD8C1D7C979A"
     },
     {
-      "class": "group",
-      "id": "327C324B-E50B-4D22-8443-4ED4913D2352"
+      "class": "symbolInstance",
+      "id": "9153D7A5-0821-4B6A-9132-7C9065886929"
     },
     {
       "class": "group",
@@ -88,43 +84,47 @@
     },
     {
       "class": "group",
-      "id": "C15B1596-639B-424D-B6B1-6810848D3739"
-    },
-    {
-      "class": "group",
-      "id": "C2AF5578-F1E3-4250-9871-426EA4664E22"
+      "id": "00B91E8C-ED47-468C-BDCC-0422C2708D93"
     },
     {
       "class": "text",
       "id": "8DCC714B-9D5C-499B-804F-BBC032CF45E6"
     },
     {
-      "class": "rectangle",
-      "id": "8D7E44EA-B38E-4D84-9CB6-F400A1C971B5"
-    },
-    {
-      "class": "text",
-      "id": "1C428F3A-372B-4CF7-8C20-98AF41FF593D"
-    },
-    {
       "class": "text",
       "id": "84AC1CA7-B03A-4475-AC78-ABD653B02CAB"
     },
     {
-      "class": "group",
-      "id": "8CD7B657-DE58-4112-82A0-3507287FB3E2"
+      "class": "bitmap",
+      "id": "706AEBD7-CE31-4DE8-8188-3BC640CBAA38"
     },
     {
       "class": "group",
-      "id": "A432E872-9E9E-4CBE-9A56-0811B1D8D3A1"
+      "id": "9B8BE2E5-C207-405C-8E2F-0BC585BD7257"
     },
     {
       "class": "group",
-      "id": "3113E181-AB20-4C36-A30B-D6C7C5F6B7B6"
+      "id": "DF27DFA4-D49E-4235-ACAD-19277CA90EC7"
     },
     {
       "class": "group",
-      "id": "F493C0D8-F0D5-444B-8EF1-C641835B5959"
+      "id": "D13A5F4C-5087-4C67-BDC7-50CD57FFC20F"
+    },
+    {
+      "class": "group",
+      "id": "6B1DCD6C-A046-4F0B-9370-119D936A8857"
+    },
+    {
+      "class": "bitmap",
+      "id": "1DBC136C-780E-48FF-8E89-E416C9D9B5AA"
+    },
+    {
+      "class": "group",
+      "id": "A9D8CE5D-6012-43D6-8804-442D33404779"
+    },
+    {
+      "class": "group",
+      "id": "47196A83-728C-450B-9335-A69344B6C453"
     }
   ],
   "name": "即开票货架",

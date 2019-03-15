@@ -30,8 +30,8 @@
     "do_objectID": "CE49A986-1C2D-4B9F-9AAB-A8AC4FFAF608",
     "height": 60,
     "width": 60,
-    "x": 38,
-    "y": 10
+    "x": 0,
+    "y": 0
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -104,7 +104,7 @@
           "red": 0.592
         },
         "fillType": 0,
-        "isEnabled": true,
+        "isEnabled": false,
         "position": 1,
         "thickness": 1
       }

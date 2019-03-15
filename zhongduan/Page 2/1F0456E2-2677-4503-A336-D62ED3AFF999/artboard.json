@@ -38,10 +38,6 @@
     "x": 5180,
     "y": -385
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "4DEE483B-1AC9-49FC-882F-7B4E99B9C45B"
-  },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -60,15 +56,23 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
       "id": "A008B4FA-2D2F-40EA-9B64-8A0454F5EB62"
     },
     {
-      "class": "group",
-      "id": "B509A087-192F-44F2-B4A4-ECF26B5BA697"
+      "class": "symbolInstance",
+      "id": "9C1D2356-8522-4F94-A361-903BAE788139"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0A20AEFE-74E8-4BC2-92AA-8E4298D4448A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F26E9BF3-CDD3-4893-962A-6C04593E98C3"
     },
     {
       "class": "text",
@@ -76,15 +80,7 @@
     },
     {
       "class": "group",
-      "id": "5D844891-8484-4C30-A1E5-573E7DAC4A11"
-    },
-    {
-      "class": "group",
-      "id": "C462179F-8A7B-4A9A-87A1-3774A5B4CBFD"
-    },
-    {
-      "class": "group",
-      "id": "2489182E-683E-4868-B533-30B35DC80CDA"
+      "id": "B76CD0FD-089C-48D0-82E0-8D6F930B1459"
     }
   ],
   "name": "打印完成",
@@ -104,7 +100,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": 1
+      "highestQuality": 2
     }
   },
   "verticalRulerData": {

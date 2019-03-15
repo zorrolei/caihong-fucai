@@ -22,10 +22,6 @@
     "x": 1340,
     "y": 408
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "8AC1CF3A-3A59-45F4-9949-633A43B87FAC"
-  },
   "hasClickThrough": false,
   "hasClippingMask": false,
   "isFixedToViewport": false,
