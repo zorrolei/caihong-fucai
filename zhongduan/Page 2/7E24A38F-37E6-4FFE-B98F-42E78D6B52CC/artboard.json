@@ -1,0 +1,159 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.1372549019607843,
+    "green": 0.6509803921568628,
+    "red": 0.9607843137254902
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7E24A38F-37E6-4FFE-B98F-42E78D6B52CC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 768,
+    "width": 1366,
+    "x": 8112,
+    "y": -385
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "5552ADE3-2088-4137-AA26-C412FC848829"
+    },
+    {
+      "class": "group",
+      "id": "06B9900B-3C57-4659-8F30-D630370678ED"
+    },
+    {
+      "class": "group",
+      "id": "F9DD8044-97AF-48AE-94E7-A6D7A66433D0"
+    },
+    {
+      "class": "group",
+      "id": "C823D4CE-6F4D-4B6E-A72D-07B4A9B776D6"
+    },
+    {
+      "class": "group",
+      "id": "E5DA7938-B950-415C-8366-FB10AA50213A"
+    },
+    {
+      "class": "group",
+      "id": "AB7A5544-EA53-4143-8D66-D62367E27E54"
+    },
+    {
+      "class": "group",
+      "id": "60207902-2C60-4866-AF09-3C042F0FD9B0"
+    },
+    {
+      "class": "group",
+      "id": "BF4CA950-096C-4B52-9676-E73FE6F07EED"
+    },
+    {
+      "class": "text",
+      "id": "C293310E-A9FC-450C-9C34-9561696135AA"
+    },
+    {
+      "class": "rectangle",
+      "id": "6EE6107F-DE93-4074-8073-3CFCE56D0E46"
+    },
+    {
+      "class": "text",
+      "id": "3BB64416-4EBF-4C44-BA1F-85361242D2C9"
+    },
+    {
+      "class": "group",
+      "id": "52912298-99EB-42B6-804E-3C64AD395B6D"
+    },
+    {
+      "class": "group",
+      "id": "03705709-66DE-4FE2-9F3A-F756F4D2E1AA"
+    },
+    {
+      "class": "rectangle",
+      "id": "B1419314-BD63-4D15-AC84-8089559D079F"
+    },
+    {
+      "class": "shapePath",
+      "id": "A51DFF3B-33AE-47EE-B3B4-B520138A4208"
+    },
+    {
+      "class": "text",
+      "id": "34D6A7B0-CE62-491C-A19E-B6CABFEEB374"
+    },
+    {
+      "class": "text",
+      "id": "ACF3A78F-C22D-48D7-9E32-AB99A33F7239"
+    },
+    {
+      "class": "group",
+      "id": "04C3C5C8-B975-4F66-A54A-74EBDDD5AB5E"
+    }
+  ],
+  "name": "即开票货架 copy",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": 2
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

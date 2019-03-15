@@ -33,44 +33,12 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "41968A5E-A2FC-4EA2-BA51-5511E62AA461"
+      "class": "shapeGroup",
+      "id": "1944B7D0-7DC1-4D47-8585-EF7103362A49"
     },
     {
       "class": "shapeGroup",
       "id": "8A62DE52-C979-4C48-9D91-F45A725E8166"
-    },
-    {
-      "class": "shapePath",
-      "id": "72BA0B47-C784-497E-82A8-E0513A58F4D6"
-    },
-    {
-      "class": "shapePath",
-      "id": "2A86A339-338C-4699-9513-E7C78F5D6249"
-    },
-    {
-      "class": "shapePath",
-      "id": "453E63EC-2E31-4523-A562-152AC85512BC"
-    },
-    {
-      "class": "shapePath",
-      "id": "98AB1F00-130D-4DCB-B4FD-419EA056A1E6"
-    },
-    {
-      "class": "shapePath",
-      "id": "AE1D17FF-57DC-491E-9197-1DF38F97F6FA"
-    },
-    {
-      "class": "shapePath",
-      "id": "CB66B742-F069-4DA7-B48F-6F1CD6EB99D0"
-    },
-    {
-      "class": "shapePath",
-      "id": "95CD4D7B-6728-43A7-9146-D56536393C15"
-    },
-    {
-      "class": "shapePath",
-      "id": "A6FB663F-BF2A-4B63-B378-3D12D7B0B219"
     }
   ],
   "name": "Shape Copy",
