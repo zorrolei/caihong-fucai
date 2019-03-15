@@ -3,7 +3,7 @@
   "booleanOperation": -1,
   "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "B1998722-A7A3-4A55-8E6C-DFC1B7F60C2A",
+  "do_objectID": "9CBFCD2F-D08E-4241-8F4F-18EC907C0744",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -17,7 +17,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 218,
+    "height": 228.646,
     "width": 547,
     "x": 410,
     "y": 31
@@ -25,7 +25,7 @@
   "hasClippingMask": false,
   "image": {
     "_class": "MSJSONFileReference",
-    "_ref": "images/05eed30813d8552776652a777b4608d37b4d10f8.png",
+    "_ref": "images/cca094da065bba4241be9c18f7c068aeab08ad8c.png",
     "_ref_class": "MSImageData"
   },
   "intendedDPI": 72,
