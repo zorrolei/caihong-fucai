@@ -3,7 +3,7 @@
   "booleanOperation": -1,
   "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "A0E8FC8D-22C6-4FD4-8A5A-666C0634E433",
+  "do_objectID": "A89174C7-EF5D-4302-9F9F-73D8C642E7B5",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -17,29 +17,29 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 109,
-    "width": 151,
-    "x": 208.6179084054402,
-    "y": 353.2494533936467
+    "height": 130,
+    "width": 177,
+    "x": -3.356751765077206,
+    "y": 182.0944301108206
   },
   "hasClippingMask": false,
   "image": {
     "_class": "MSJSONFileReference",
-    "_ref": "images/731530dae642660cfef7b32ff81fb0d11aa2c2ed.png",
+    "_ref": "images/c1ba52000af6412124ec5d297a727c3a0d296942.png",
     "_ref_class": "MSImageData"
   },
   "intendedDPI": 72,
   "isFixedToViewport": false,
-  "isFlippedHorizontal": false,
-  "isFlippedVertical": false,
+  "isFlippedHorizontal": true,
+  "isFlippedVertical": true,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "年货节·欢聚时刻·年货剁手攻略_设计页－稿定设计",
+  "name": "年货节·食品·生鲜_在线编辑_稿定设计 copy 2",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
-  "rotation": -42,
+  "rotation": 30,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

@@ -3,7 +3,7 @@
   "booleanOperation": -1,
   "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "55ABF4DC-51DF-477A-A3AD-A6C976A430C1",
+  "do_objectID": "47A913C8-4C8F-42D4-8D73-E19DE62C1B47",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -17,15 +17,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 210,
-    "width": 177,
-    "x": 1197.408950249655,
-    "y": 283.9574503528289
+    "height": 220.988,
+    "width": 547,
+    "x": 410,
+    "y": 36.00000000000003
   },
   "hasClippingMask": false,
   "image": {
     "_class": "MSJSONFileReference",
-    "_ref": "images/105c349d41ef842cf0e84b80630c1cf048eb040c.png",
+    "_ref": "images/15c39280c47307b41a8550e6301ec9af09c1d7c9.png",
     "_ref_class": "MSImageData"
   },
   "intendedDPI": 72,
@@ -35,11 +35,11 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "年货节·欢聚时刻·年货剁手攻略_设计页－稿定设计",
+  "name": "Bitmap",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
-  "rotation": 11,
+  "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
