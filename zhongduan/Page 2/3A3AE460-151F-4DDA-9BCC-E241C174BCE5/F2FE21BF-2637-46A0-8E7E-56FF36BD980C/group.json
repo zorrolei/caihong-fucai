@@ -2,9 +2,10 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "D8244339-D18B-408B-93C2-B87E6CA1A759",
+  "do_objectID": "F2FE21BF-2637-46A0-8E7E-56FF36BD980C",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "68905C3D-6709-42CD-B9E9-864BBECBBEF4",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,10 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 187,
-    "width": 123,
-    "x": 1380,
-    "y": 418
+    "do_objectID": "A69C4A0D-DCB9-4DFE-AD2B-C69158C02A81",
+    "height": 97,
+    "width": 79,
+    "x": 115,
+    "y": 47
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -31,14 +33,14 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "58C34E6C-FA57-4250-A5D3-B7A213CA5DDD"
+      "id": "F248C80C-E864-44F3-AF47-5F4103B6C5FA"
     },
     {
-      "class": "group",
-      "id": "BA703840-4881-49A2-9486-F85E5B0F70B3"
+      "class": "bitmap",
+      "id": "B07C923B-4252-4ED2-BAF6-B886A2998F8B"
     }
   ],
-  "name": "Group 2 Copy",
+  "name": "Group 8 Copy",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -46,6 +48,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "AE8A002A-4A3D-497C-BA00-E578FE190EF9",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

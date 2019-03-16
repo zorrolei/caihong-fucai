@@ -1,0 +1,163 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "0352DF63-77DE-4F45-BBA5-F3CD0FBB31D1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 111.4723406509259,
+    "width": 463.5060968604575,
+    "x": 0,
+    "y": 105.2988463411043
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "7C5EB5D0-E5D4-48C1-BFEE-D8147CC9CEBB"
+    },
+    {
+      "class": "shapePath",
+      "id": "75C061B9-F57B-47D3-B55D-561695ED2DE7"
+    },
+    {
+      "class": "shapePath",
+      "id": "AE876D3E-613D-4229-A782-4894CA09384A"
+    },
+    {
+      "class": "shapePath",
+      "id": "0D3F6BF2-FF7C-4815-BE31-9BF97A1C302A"
+    },
+    {
+      "class": "shapePath",
+      "id": "ADA7D873-E51D-488A-B937-A85231F68EC8"
+    },
+    {
+      "class": "shapePath",
+      "id": "EDCC19B6-DFA4-418F-A0CA-6E963D1A7B05"
+    },
+    {
+      "class": "shapePath",
+      "id": "C473CF25-E631-4F85-B5B2-A977FF4C78F5"
+    },
+    {
+      "class": "shapePath",
+      "id": "4DA74B52-EA04-44B4-8C7D-EFEC8FA838A8"
+    },
+    {
+      "class": "shapePath",
+      "id": "10FAB7FD-F20F-4D5D-B464-EBAE07C66646"
+    },
+    {
+      "class": "shapePath",
+      "id": "997EDCB0-27DC-49A3-A0C9-3FB02FBDCEAC"
+    },
+    {
+      "class": "shapePath",
+      "id": "C2B2BD4D-5755-4B20-9446-7A5EA81479A7"
+    },
+    {
+      "class": "shapePath",
+      "id": "6D165D28-7631-4EB7-B0B4-0020284B6A92"
+    },
+    {
+      "class": "shapePath",
+      "id": "1139EF6C-F415-4E8E-815C-1C773EBF18FC"
+    },
+    {
+      "class": "shapePath",
+      "id": "247D1FA7-C0AB-4D6B-97C5-CC7EFD9B234F"
+    },
+    {
+      "class": "shapePath",
+      "id": "710411C1-54FF-4A62-955E-DF5F7B4E335D"
+    },
+    {
+      "class": "shapePath",
+      "id": "A1658F7E-9D54-414B-9005-FFCF6F33D1CE"
+    },
+    {
+      "class": "shapePath",
+      "id": "FA27BDF0-65E0-4106-BBE9-B109C776294E"
+    },
+    {
+      "class": "shapePath",
+      "id": "EA1C0233-F5C2-40BB-B0B6-FDA0EDEA923D"
+    }
+  ],
+  "name": "最高奖金",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "FZLTTHK-GBK1-0",
+            "size": 100
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 2,
+          "allowsDefaultTighteningForTruncation": 0
+        },
+        "textStyleVerticalAlignmentKey": 0
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

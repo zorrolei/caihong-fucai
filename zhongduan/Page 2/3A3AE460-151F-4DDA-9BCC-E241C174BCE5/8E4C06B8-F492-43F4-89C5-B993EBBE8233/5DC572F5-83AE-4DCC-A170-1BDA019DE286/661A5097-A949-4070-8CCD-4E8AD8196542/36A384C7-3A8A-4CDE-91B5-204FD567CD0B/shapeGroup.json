@@ -1,0 +1,159 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "36A384C7-3A8A-4CDE-91B5-204FD567CD0B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 33.37181358044947,
+    "width": 215.6617103055009,
+    "x": 568.3588232492835,
+    "y": 170.7145898202681
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "0D1DB9F0-31A9-4BFD-A80B-0E5C0E1DE8CB"
+    },
+    {
+      "class": "shapePath",
+      "id": "742D31F4-635E-4FFA-88EA-9C95833C6B56"
+    },
+    {
+      "class": "shapePath",
+      "id": "6A899194-4D5E-4046-9ECE-48E7531A62FD"
+    },
+    {
+      "class": "shapePath",
+      "id": "5B47B566-3DB7-467F-9647-76847DA43538"
+    },
+    {
+      "class": "shapePath",
+      "id": "DD7BD314-1355-4248-8399-98CAB7C92B78"
+    },
+    {
+      "class": "shapePath",
+      "id": "599081F2-8BBB-4058-9215-5E7C2E3E41E3"
+    },
+    {
+      "class": "shapePath",
+      "id": "68A0F156-098F-436C-A6AB-CAB0B5866DB1"
+    },
+    {
+      "class": "shapePath",
+      "id": "8B36B6FD-0E8F-450B-8FEA-5CFF260C7E36"
+    },
+    {
+      "class": "shapePath",
+      "id": "C4FCA9E8-CFB5-4D3C-A202-77526074ED15"
+    },
+    {
+      "class": "shapePath",
+      "id": "9E2BE2B6-0E73-4827-BC76-8779B78256B9"
+    },
+    {
+      "class": "shapePath",
+      "id": "4C02747A-517D-41B7-9073-6E5CEE74007B"
+    },
+    {
+      "class": "shapePath",
+      "id": "D0902EA2-3EE7-42E2-84FB-E59A2DAE5C87"
+    },
+    {
+      "class": "shapePath",
+      "id": "D8E85677-5A1A-4533-9A17-95E371A12AC6"
+    },
+    {
+      "class": "shapePath",
+      "id": "CF71E522-BC89-4A05-B9D1-31CF6E31B4C4"
+    },
+    {
+      "class": "shapePath",
+      "id": "67C01B4E-72A6-4AA7-AE48-8C1FCB77EBE0"
+    },
+    {
+      "class": "shapePath",
+      "id": "8D8F630B-1A92-4D1A-A590-2E5DE9BAAF50"
+    },
+    {
+      "class": "shapePath",
+      "id": "E051A360-EABB-48DC-8935-3D222149167E"
+    }
+  ],
+  "name": "大奖近在咫尺！",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1098039215686274,
+          "green": 0.9058823529411765,
+          "red": 0.9725490196078431
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1098039215686274,
+          "green": 0.9058823529411765,
+          "red": 0.9725490196078431
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "FZLTTHK-GBK1-0",
+            "size": 30
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 2,
+          "allowsDefaultTighteningForTruncation": 0
+        },
+        "textStyleVerticalAlignmentKey": 0
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

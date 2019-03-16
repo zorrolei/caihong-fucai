@@ -2,10 +2,19 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "D8244339-D18B-408B-93C2-B87E6CA1A759",
+  "do_objectID": "5DC572F5-83AE-4DCC-A170-1BDA019DE286",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "pdf",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -15,10 +24,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 187,
-    "width": 123,
-    "x": 1380,
-    "y": 418
+    "height": 229,
+    "width": 936,
+    "x": 30,
+    "y": 32
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -30,15 +39,15 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "58C34E6C-FA57-4250-A5D3-B7A213CA5DDD"
+      "class": "shapeGroup",
+      "id": "661A5097-A949-4070-8CCD-4E8AD8196542"
     },
     {
-      "class": "group",
-      "id": "BA703840-4881-49A2-9486-F85E5B0F70B3"
+      "class": "shapeGroup",
+      "id": "34FB7156-D0B9-462E-BD31-2A9C6C2BDD9F"
     }
   ],
-  "name": "Group 2 Copy",
+  "name": "Group 3",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

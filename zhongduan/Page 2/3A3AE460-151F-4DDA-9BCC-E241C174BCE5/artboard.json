@@ -58,6 +58,54 @@
     {
       "class": "group",
       "id": "DA694F59-0557-42E2-A6BD-704E26678750"
+    },
+    {
+      "class": "group",
+      "id": "94051778-0D68-4B5C-B4C0-C0C6E2FFC454"
+    },
+    {
+      "class": "group",
+      "id": "172A6370-6C69-4B31-ACC8-DED56CCFA628"
+    },
+    {
+      "class": "group",
+      "id": "F2FE21BF-2637-46A0-8E7E-56FF36BD980C"
+    },
+    {
+      "class": "group",
+      "id": "865B7DE6-1B0D-424E-BEDF-A21BB7DD6A57"
+    },
+    {
+      "class": "shapePath",
+      "id": "8062E6B9-9F03-4F71-9966-9CCDA23B287F"
+    },
+    {
+      "class": "shapePath",
+      "id": "EF02A00F-CC04-4196-9FEB-B44B24D6C67A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F0D291A2-EBB6-473F-BBA3-9C973DBF9EE7"
+    },
+    {
+      "class": "shapePath",
+      "id": "16E39733-CE3A-4152-83E5-041FFB3B968D"
+    },
+    {
+      "class": "group",
+      "id": "E4734EF0-F50F-45B5-AF24-95DDD7F95258"
+    },
+    {
+      "class": "group",
+      "id": "8E4C06B8-F492-43F4-89C5-B993EBBE8233"
+    },
+    {
+      "class": "group",
+      "id": "8362A92F-FCDD-4A75-B0AA-7EC58C72560F"
+    },
+    {
+      "class": "text",
+      "id": "9B37E617-E397-4A24-8561-7DC729344A45"
     }
   ],
   "name": "打印完成 copy",

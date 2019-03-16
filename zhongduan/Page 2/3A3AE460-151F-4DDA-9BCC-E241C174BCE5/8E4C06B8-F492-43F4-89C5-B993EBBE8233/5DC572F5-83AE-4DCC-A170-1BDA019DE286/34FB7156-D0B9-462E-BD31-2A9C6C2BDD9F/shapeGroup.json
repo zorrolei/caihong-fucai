@@ -1,0 +1,183 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "34FB7156-D0B9-462E-BD31-2A9C6C2BDD9F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 55.73617032546284,
+    "width": 341.0725016821569,
+    "x": 89.30061667168602,
+    "y": 0.4702598481755871
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "69D9986D-FA9E-4DD5-BFF5-35C9404D94EA"
+    },
+    {
+      "class": "shapePath",
+      "id": "32D1F0DB-E254-441B-9EE7-56951333037B"
+    },
+    {
+      "class": "shapePath",
+      "id": "CC3AEB29-5FE9-4CC5-927E-E1B74043672C"
+    },
+    {
+      "class": "shapePath",
+      "id": "48B2B498-FB74-47D7-80D6-B65BFFEB40B3"
+    },
+    {
+      "class": "shapePath",
+      "id": "08FED03A-C378-4CD8-BC17-2F592E9EE7AB"
+    },
+    {
+      "class": "shapePath",
+      "id": "817A9DCF-6575-4446-A09E-D7D1D8E72FEC"
+    },
+    {
+      "class": "shapePath",
+      "id": "C8BB1A23-FE2A-4B70-817A-11EEA1DA2491"
+    },
+    {
+      "class": "shapePath",
+      "id": "3F9B8153-6EF5-4F27-B351-E1EE9B60B647"
+    },
+    {
+      "class": "shapePath",
+      "id": "E70E85D2-3122-474B-B52A-9CDE887ACD28"
+    },
+    {
+      "class": "shapePath",
+      "id": "F0D74436-D1D0-4951-8A9C-A6C0BC5283F3"
+    },
+    {
+      "class": "shapePath",
+      "id": "95BF24B5-0A4D-4439-8F90-CEC8FC490255"
+    },
+    {
+      "class": "shapePath",
+      "id": "588D5DF9-21B6-4B3D-A84B-0BD156146A0C"
+    },
+    {
+      "class": "shapePath",
+      "id": "7A500A6C-3A4D-42BD-99D9-E70C418C029F"
+    },
+    {
+      "class": "shapePath",
+      "id": "3E36E6C4-7773-4F12-989E-D8E8F99FC0A2"
+    },
+    {
+      "class": "shapePath",
+      "id": "90CD015F-C55D-4BE9-866E-55D623602C38"
+    },
+    {
+      "class": "shapePath",
+      "id": "3DED3209-6E77-46DD-90C5-E60BBD3A07C5"
+    },
+    {
+      "class": "shapePath",
+      "id": "8B5CAE59-AFC0-4513-A8F2-89BEFFC03565"
+    },
+    {
+      "class": "shapePath",
+      "id": "9BB2BF01-893A-4B8F-9904-EC60E959A06A"
+    },
+    {
+      "class": "shapePath",
+      "id": "3F7FBBC6-97E4-4A37-BD0C-0B3602BF2E4E"
+    },
+    {
+      "class": "shapePath",
+      "id": "D0ACE8B3-D984-413A-84CA-44427D0DE980"
+    },
+    {
+      "class": "shapePath",
+      "id": "BDDA0CFF-579A-4CDE-AD82-C2172D81364E"
+    },
+    {
+      "class": "shapePath",
+      "id": "9081B2A3-B29E-4AA6-BCAC-FE4659B1B58B"
+    },
+    {
+      "class": "shapePath",
+      "id": "21865540-C9BA-4154-AF1F-E15C8F102E9D"
+    }
+  ],
+  "name": "玩法简单有趣",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0.8431372549019608,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3058823529411765,
+          "green": 0.1019607843137255,
+          "red": 0.4196078431372549
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "FZLTTHK-GBK1-0",
+            "size": 50
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 2,
+          "allowsDefaultTighteningForTruncation": 0
+        },
+        "textStyleVerticalAlignmentKey": 0
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

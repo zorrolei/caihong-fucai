@@ -9,15 +9,15 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0,
-            "green": 0.007843137254901959,
-            "red": 0.8196078431372549
+            "blue": 0.1098039215686274,
+            "green": 0.9058823529411765,
+            "red": 0.9725490196078431
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "PingFangSC-Semibold",
-              "size": 30
+              "name": "FZLTTHK-GBK1-0",
+              "size": 60
             }
           },
           "paragraphStyle": {
@@ -27,16 +27,16 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 1,
+        "length": 14,
         "location": 0
       }
     ],
-    "string": "5"
+    "string": "自娱，送亲，访友的吉庆佳品！"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "4F244694-4683-47FC-B83F-67B053EF1B98",
+  "do_objectID": "9B37E617-E397-4A24-8561-7DC729344A45",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -50,12 +50,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 43,
-    "width": 19,
-    "x": 58,
-    "y": 26
+    "height": 60,
+    "width": 840,
+    "x": 263,
+    "y": 563.0228028526898
   },
-  "glyphBounds": "{{1, 10}, {17, 23}}",
+  "glyphBounds": "{{6, -2}, {793, 59}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "5",
+  "name": "自娱，送亲，访友的吉庆佳品！",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -81,15 +81,15 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0.007843137254901959,
-          "red": 0.8196078431372549
+          "blue": 0.1098039215686274,
+          "green": 0.9058823529411765,
+          "red": 0.9725490196078431
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "PingFangSC-Semibold",
-            "size": 30
+            "name": "FZLTTHK-GBK1-0",
+            "size": 60
           }
         },
         "paragraphStyle": {
@@ -103,5 +103,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 2
+  "textBehaviour": 0
 }
