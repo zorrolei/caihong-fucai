@@ -18,7 +18,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 293,
-    "width": 996,
+    "width": 998,
     "x": 0,
     "y": 0
   },
@@ -43,6 +43,14 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1.437057783018869,
+      "hue": 0.1983562578548979,
+      "isEnabled": true,
+      "saturation": 1
+    },
     "endMarkerType": 0,
     "miterLimit": 10,
     "shadows": [
