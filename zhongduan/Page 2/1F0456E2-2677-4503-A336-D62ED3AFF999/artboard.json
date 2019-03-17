@@ -38,6 +38,9 @@
     "x": 5180,
     "y": -385
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -56,11 +59,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
       "id": "A008B4FA-2D2F-40EA-9B64-8A0454F5EB62"
+    },
+    {
+      "class": "text",
+      "id": "F6C7785D-5CBC-4F9F-A484-1E28C1CD0E2E"
     },
     {
       "class": "symbolInstance",
@@ -100,7 +107,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": 2
+      "highestQuality": -1
     }
   },
   "verticalRulerData": {
