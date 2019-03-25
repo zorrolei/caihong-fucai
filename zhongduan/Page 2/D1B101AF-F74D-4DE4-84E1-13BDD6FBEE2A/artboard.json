@@ -59,7 +59,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
@@ -132,6 +132,14 @@
     {
       "class": "text",
       "id": "20CAB099-28F5-43C0-9078-45DEE5051502"
+    },
+    {
+      "class": "rectangle",
+      "id": "7E4FBC1D-1672-4727-B99E-30F01EBFE69F"
+    },
+    {
+      "class": "rectangle",
+      "id": "CCD4FF70-9417-49A3-B97F-7BDD66BA556D"
     }
   ],
   "name": "即开票货架",

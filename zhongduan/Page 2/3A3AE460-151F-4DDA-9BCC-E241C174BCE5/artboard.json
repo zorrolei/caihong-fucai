@@ -40,7 +40,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -56,7 +56,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
@@ -109,6 +109,18 @@
     {
       "class": "text",
       "id": "9B37E617-E397-4A24-8561-7DC729344A45"
+    },
+    {
+      "class": "text",
+      "id": "CB42519E-F3C6-45FA-BE6B-15356057F589"
+    },
+    {
+      "class": "text",
+      "id": "C6DB6B0F-54A4-43A3-A82C-EF1579766980"
+    },
+    {
+      "class": "text",
+      "id": "AADDE2DF-F1A8-4C7C-9848-98BC9D66FD89"
     }
   ],
   "name": "海报",

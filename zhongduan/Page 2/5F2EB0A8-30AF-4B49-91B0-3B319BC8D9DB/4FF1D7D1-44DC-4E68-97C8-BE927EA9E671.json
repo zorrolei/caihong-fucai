@@ -29,11 +29,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 17,
+        "length": 11,
         "location": 0
       }
     ],
-    "string": "1.扫描二维码登陆\n  彩红小程序"
+    "string": "1.扫码登陆彩红小程序"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -54,12 +54,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "B0AC62A5-80E3-4B51-B832-AF830E39867C",
-    "height": 40,
-    "width": 108,
-    "x": 300,
+    "height": 20,
+    "width": 136,
+    "x": 286,
     "y": 687
   },
-  "glyphBounds": "{{0, 3}, {108, 34}}",
+  "glyphBounds": "{{0, 3}, {135, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,7 +68,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "1.扫描二维码登陆 彩红小程序",
+  "name": "1.扫码登陆彩红小程序",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
