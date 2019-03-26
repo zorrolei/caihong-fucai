@@ -56,7 +56,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
@@ -123,12 +123,28 @@
       "id": "7827BB1E-4C8C-4527-A8B9-80DADF5B1F82"
     },
     {
+      "class": "rectangle",
+      "id": "A2AD01D6-2E69-4894-9263-1ECA900723F5"
+    },
+    {
+      "class": "rectangle",
+      "id": "A78C674D-8EE0-4A42-BC25-04DF4E8BC944"
+    },
+    {
       "class": "text",
       "id": "A0652D36-DB50-45C6-99AF-7E80F173F821"
     },
     {
       "class": "text",
       "id": "27486874-0017-46E3-8167-A981B4DE31D7"
+    },
+    {
+      "class": "text",
+      "id": "E67FAB1A-FEA7-4F17-8318-3E2A45607818"
+    },
+    {
+      "class": "text",
+      "id": "BB7ECAF6-2630-477B-8BBB-9DC4FE55E136"
     }
   ],
   "name": "订单确认页",
@@ -147,7 +163,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": -1
+      "highestQuality": 2
     }
   },
   "verticalRulerData": {

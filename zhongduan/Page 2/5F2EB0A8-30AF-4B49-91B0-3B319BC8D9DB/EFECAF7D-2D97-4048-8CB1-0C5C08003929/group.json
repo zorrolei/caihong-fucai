@@ -39,7 +39,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
@@ -94,8 +94,32 @@
       "id": "1FDA6377-94BE-4D43-B228-A666AFE9DF29"
     },
     {
+      "class": "group",
+      "id": "F4AEAB53-B5D2-46BA-8D78-64A64D25D028"
+    },
+    {
+      "class": "group",
+      "id": "AAF6FCF3-5218-4081-B916-1A4E35A31AF4"
+    },
+    {
+      "class": "group",
+      "id": "091269E9-9947-4411-8A9F-12FAD282C138"
+    },
+    {
+      "class": "group",
+      "id": "33692A3D-0B4A-4FE1-B5B8-123F50D771D5"
+    },
+    {
+      "class": "group",
+      "id": "C910FD7A-DE29-4232-AB8A-4A0D1457AEFC"
+    },
+    {
       "class": "slice",
       "id": "38933335-EA39-4AD5-9BB9-565C0A1153A8"
+    },
+    {
+      "class": "group",
+      "id": "6FC62A25-55AF-4849-9B56-BDF0DD330D24"
     }
   ],
   "name": "Path 2",

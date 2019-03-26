@@ -27,16 +27,16 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 3,
+        "length": 5,
         "location": 0
       }
     ],
-    "string": "15元"
+    "string": "待支付金额"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "0DB2D8F1-C2FE-46F9-83C6-9D8A9ED0FAD0",
+  "do_objectID": "E67FAB1A-FEA7-4F17-8318-3E2A45607818",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -51,11 +51,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 28,
-    "width": 41,
-    "x": 556,
-    "y": 0
+    "width": 100,
+    "x": 1062,
+    "y": 414
   },
-  "glyphBounds": "{{0, 5}, {40, 19}}",
+  "glyphBounds": "{{0, 4}, {100, 20}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "15元",
+  "name": "待支付金额",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

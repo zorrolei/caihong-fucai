@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "F4AEAB53-B5D2-46BA-8D78-64A64D25D028",
+  "do_objectID": "33692A3D-0B4A-4FE1-B5B8-123F50D771D5",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 232,
-    "width": 182,
-    "x": 998,
-    "y": 21
+    "height": 239,
+    "width": 184,
+    "x": 435,
+    "y": 247
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -34,14 +34,14 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "549556E8-37B5-4DC7-98D5-A17700C3A26E"
+      "id": "7044E5B2-2F18-4E53-8E87-39A32CA3B795"
     },
     {
       "class": "bitmap",
-      "id": "F892BE9B-EF4A-4008-9F03-0CCB7389980C"
+      "id": "0DB70D43-0354-482E-952E-67E6768AB2A4"
     }
   ],
-  "name": "Group 8",
+  "name": "Group 7",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

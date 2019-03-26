@@ -31,12 +31,12 @@
         "location": 0
       }
     ],
-    "string": "15元"
+    "string": "10元"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "0DB2D8F1-C2FE-46F9-83C6-9D8A9ED0FAD0",
+  "do_objectID": "BB7ECAF6-2630-477B-8BBB-9DC4FE55E136",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -52,8 +52,8 @@
     "constrainProportions": false,
     "height": 28,
     "width": 41,
-    "x": 556,
-    "y": 0
+    "x": 1092,
+    "y": 448
   },
   "glyphBounds": "{{0, 5}, {40, 19}}",
   "hasClippingMask": false,
@@ -64,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "15元",
+  "name": "10元",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
