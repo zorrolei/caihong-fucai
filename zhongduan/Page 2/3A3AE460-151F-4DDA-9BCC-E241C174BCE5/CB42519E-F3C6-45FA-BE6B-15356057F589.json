@@ -31,7 +31,7 @@
         "location": 0
       }
     ],
-    "string": "400服务热线：400-780-1788"
+    "string": "400服务电话：400-780-1788"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -64,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "400服务热线：400-780-1788",
+  "name": "400服务电话：400-780-1788",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

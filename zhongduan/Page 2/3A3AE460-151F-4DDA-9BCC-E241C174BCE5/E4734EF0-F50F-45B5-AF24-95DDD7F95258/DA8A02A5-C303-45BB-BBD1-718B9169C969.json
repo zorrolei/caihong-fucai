@@ -83,8 +83,8 @@
     "constrainProportions": false,
     "height": 60,
     "width": 252.1775898520084,
-    "x": 315.8224101479915,
-    "y": 0
+    "x": 315.9999999999999,
+    "y": 24
   },
   "glyphBounds": "{{1, -2}, {250, 58}}",
   "hasClippingMask": false,
