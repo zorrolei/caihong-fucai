@@ -1,0 +1,147 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.1372549019607843,
+    "green": 0.6509803921568628,
+    "red": 0.9607843137254902
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4503622E-C6A3-420C-81C0-A7EA2A74E7A7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "pdf",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 768,
+    "width": 1366,
+    "x": 8112,
+    "y": -385
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "B13207CF-390F-43E8-84B8-E4F3D37CBD98"
+    },
+    {
+      "class": "rectangle",
+      "id": "6AE8548B-6061-4647-833E-332A8394D154"
+    },
+    {
+      "class": "text",
+      "id": "37607A14-4B90-4B7B-8102-70634E8EA1C9"
+    },
+    {
+      "class": "group",
+      "id": "AE4DE7ED-17F1-4E7B-8788-F8D097F9E64D"
+    },
+    {
+      "class": "group",
+      "id": "CC12CC72-113A-483C-A292-F4DF94A41FC9"
+    },
+    {
+      "class": "group",
+      "id": "1169EB4A-8E51-4F05-8D16-FB5D71776F49"
+    },
+    {
+      "class": "shapePath",
+      "id": "92D9FE38-D40F-4217-AD17-24072DFE21A8"
+    },
+    {
+      "class": "shapePath",
+      "id": "185FED9C-C424-4FD4-BB5A-CAFB9C08DCFD"
+    },
+    {
+      "class": "shapePath",
+      "id": "28283C8C-84E4-4C36-91B0-3F52D573AAE7"
+    },
+    {
+      "class": "group",
+      "id": "58402F89-086B-48F2-B9B2-6D4A2043635F"
+    },
+    {
+      "class": "text",
+      "id": "127B4869-AA50-4EB6-8785-49C808B9F8E9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D7CA182C-4A3F-4F96-9917-25D44CE3C2F6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0B81C186-E3CA-407B-81E5-980327D70945"
+    },
+    {
+      "class": "text",
+      "id": "D80FC1E8-807A-4FE6-9CD4-6DBC888E33D8"
+    },
+    {
+      "class": "group",
+      "id": "CBF86460-08F3-414A-BE35-7200F48FF23F"
+    }
+  ],
+  "name": "出票失败",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": 2
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

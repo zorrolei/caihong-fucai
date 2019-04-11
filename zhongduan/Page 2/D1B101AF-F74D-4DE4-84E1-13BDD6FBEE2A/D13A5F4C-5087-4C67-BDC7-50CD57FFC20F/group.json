@@ -35,6 +35,22 @@
     {
       "class": "group",
       "id": "F27B0641-BBDA-44D6-A59F-8C08699CB478"
+    },
+    {
+      "class": "bitmap",
+      "id": "559F2381-193F-4268-8D8B-6F01C4AFCA6E"
+    },
+    {
+      "class": "bitmap",
+      "id": "37CD6B1B-B8BB-48D9-ACD3-F5952E15CB61"
+    },
+    {
+      "class": "bitmap",
+      "id": "1081FE27-4293-40F9-A839-BCBFDCDDF105"
+    },
+    {
+      "class": "bitmap",
+      "id": "089B2A7D-8530-4FC0-BEB5-F853B3DF77DF"
     }
   ],
   "name": "Group 6 Copy",

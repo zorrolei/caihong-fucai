@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 76,
-    "width": 370,
-    "x": 809,
-    "y": 515
+    "height": 56,
+    "width": 17,
+    "x": 979,
+    "y": 522
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -30,16 +30,8 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "bitmap",
-      "id": "39106E83-74D2-4EA3-8CB4-DF1F39AC7798"
-    },
-    {
-      "class": "bitmap",
-      "id": "1E4E6F26-7CBA-4BC5-8C21-9511ED0BAD8C"
-    },
     {
       "class": "text",
       "id": "EE264094-1208-40C0-84AB-2F5339AD0CF1"

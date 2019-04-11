@@ -28,11 +28,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 12,
+        "length": 15,
         "location": 0
       }
     ],
-    "string": "欢迎使用\n彩红自助彩票机"
+    "string": "欢迎使用彩红\n即开票自助售卖机"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,11 +52,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 164,
-    "width": 504,
-    "x": 431,
+    "width": 576,
+    "x": 395,
     "y": 70
   },
-  "glyphBounds": "{{2, 6}, {500, 152}}",
+  "glyphBounds": "{{2, 6}, {572, 152}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "欢迎使用 彩红自助彩票机",
+  "name": "欢迎使用彩红 即开票自助售卖机",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

@@ -35,14 +35,14 @@
     "do_objectID": "9DEAF695-3726-4234-9B5C-499F403CFFF3",
     "height": 768,
     "width": 1366,
-    "x": 5180,
+    "x": 6646,
     "y": -385
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -59,11 +59,47 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
       "id": "A008B4FA-2D2F-40EA-9B64-8A0454F5EB62"
+    },
+    {
+      "class": "rectangle",
+      "id": "9B91C01A-3E9E-4644-9305-FF133736F58E"
+    },
+    {
+      "class": "text",
+      "id": "27CDA67A-2E0C-4D0A-9AF3-7A542B10D003"
+    },
+    {
+      "class": "group",
+      "id": "20BE0996-9AD7-452A-9394-997D5C93BDC8"
+    },
+    {
+      "class": "group",
+      "id": "5AD1EF6C-7582-43D6-9586-9D186CFC81FE"
+    },
+    {
+      "class": "group",
+      "id": "121F781F-9594-4E13-80E8-DB17E7D83AA2"
+    },
+    {
+      "class": "shapePath",
+      "id": "5DB88BBD-EECC-4A8D-A158-9475C9DD1C02"
+    },
+    {
+      "class": "shapePath",
+      "id": "E64BA5AA-A2B4-4476-9A08-E54BE0AA7A5E"
+    },
+    {
+      "class": "shapePath",
+      "id": "2D4990B9-A495-4D46-8A40-B07E09783F13"
+    },
+    {
+      "class": "group",
+      "id": "5A59F3BC-232D-4ED1-96A8-46C9CAFE0BFE"
     },
     {
       "class": "text",
@@ -78,10 +114,6 @@
       "id": "0A20AEFE-74E8-4BC2-92AA-8E4298D4448A"
     },
     {
-      "class": "symbolInstance",
-      "id": "F26E9BF3-CDD3-4893-962A-6C04593E98C3"
-    },
-    {
       "class": "text",
       "id": "A50A94AF-3DE4-4843-B45C-5DE481BEC5A8"
     },
@@ -90,7 +122,7 @@
       "id": "B76CD0FD-089C-48D0-82E0-8D6F930B1459"
     }
   ],
-  "name": "打印完成",
+  "name": "出票成功",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -107,7 +139,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": -1
+      "highestQuality": 2
     }
   },
   "verticalRulerData": {

@@ -28,11 +28,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 20,
+        "length": 15,
         "location": 0
       }
     ],
-    "string": "购买完成，正在出票\n30S后自动登出账号"
+    "string": "购买成功\n30S后自动登出账号"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -54,11 +54,11 @@
     "constrainProportions": false,
     "do_objectID": "0431240E-D597-457B-889B-AE55F65B1510",
     "height": 164,
-    "width": 648,
-    "x": 359,
-    "y": 250
+    "width": 638,
+    "x": 364,
+    "y": 47
   },
-  "glyphBounds": "{{2, 7}, {643, 151}}",
+  "glyphBounds": "{{2, 7}, {633, 151}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "购买完成，正在出票 30S后自动登出账号",
+  "name": "购买成功 30S后自动登出账号",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

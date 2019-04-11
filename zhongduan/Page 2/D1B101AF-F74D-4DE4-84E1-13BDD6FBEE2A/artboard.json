@@ -42,7 +42,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -59,7 +59,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
@@ -84,6 +84,10 @@
     {
       "class": "group",
       "id": "99340B3A-33E9-4075-B4C4-EBB50039D462"
+    },
+    {
+      "class": "bitmap",
+      "id": "8CEA47B6-0190-46DA-AF6E-61FA958AC239"
     },
     {
       "class": "group",
@@ -159,7 +163,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": 2
+      "highestQuality": -1
     }
   },
   "verticalRulerData": {

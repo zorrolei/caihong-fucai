@@ -33,6 +33,12 @@
   "name": "button",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "66F3C863-F683-48DB-B037-16F8B17E5880",
+      "overrideName": "590A85FD-A190-42B8-B13B-D02C28E3E762_stringValue",
+      "value": "登出账号"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
