@@ -63,6 +63,10 @@
       "id": "DA694F59-0557-42E2-A6BD-704E26678750"
     },
     {
+      "class": "symbolInstance",
+      "id": "38485BAF-E354-40EE-BDE0-59FBBB53158C"
+    },
+    {
       "class": "group",
       "id": "94051778-0D68-4B5C-B4C0-C0C6E2FFC454"
     },
@@ -117,10 +121,6 @@
     {
       "class": "text",
       "id": "C6DB6B0F-54A4-43A3-A82C-EF1579766980"
-    },
-    {
-      "class": "text",
-      "id": "AADDE2DF-F1A8-4C7C-9848-98BC9D66FD89"
     }
   ],
   "name": "海报",
@@ -139,7 +139,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": 2
+      "highestQuality": 1
     }
   },
   "verticalRulerData": {

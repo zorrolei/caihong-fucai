@@ -137,6 +137,10 @@
     {
       "class": "group",
       "id": "880594AB-A292-4151-84EF-7DB307204F03"
+    },
+    {
+      "class": "text",
+      "id": "855F6625-D311-40BF-A7A6-55846B2E9941"
     }
   ],
   "name": "扫码登陆页",
@@ -155,7 +159,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": 2
+      "highestQuality": 1
     }
   },
   "verticalRulerData": {
